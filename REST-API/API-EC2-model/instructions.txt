@@ -1,0 +1,19 @@
+# when exporting requirements.txt, always use:
+pip list --format=freeze > .\requirements.txt
+
+# docker images : they occupty space, delete if the deployment failed
+docker rm -f <ID>
+docker system prune -a
+
+# scp command to transfer dockerfile and all needed files
+scp -i "C:\Users\Mo\Documents\KeyFiles\Source Keys\Start-upProjects.pem" "C:\Users\Mo\OneDrive\Work_Notes\StartUps\Telepsy\API\API-EC2-model\requirements.txt" ec2-user@34.207.191.189:/home/ec2-user
+
+# CURL
+curl.exe -X POST localhost:80/predict_risk -H "Content-Type: application/json" -d @C:\Users\Mo\OneDrive\Work_Notes\StartUps\Telepsy\API\API-EC2-model\api-test.json
+
+# ec2: may run out of space, or memory with pip install, to check space:
+$ df -hT /dev/xvda1
+
+    # pip: 
+    pip install <stuff> -no-cache-dir
+    # Content

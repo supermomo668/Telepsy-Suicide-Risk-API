@@ -1,0 +1,876 @@
+,start,end,speaker,type,content,content_clean,danger,Sentiment,Score,Risk
+0,4.74,6.59,spk_0,review,I doctor Listener ,doctor listener,0,POSITIVE,0.7154591083526611,0
+1,7.14,8.35,spk_1,review,You can call me David ,call david,1,POSITIVE,0.9956555366516113,0
+2,9.04,13.24,spk_0,neutral,Many Yeah Yeah okay I do It's like Well ,many yeah yeah okay like well,0,POSITIVE,0.9998311996459961,0
+3,13.75,14.51,spk_1,agenda,how you doing ,,1,POSITIVE,0.9991374015808105,0
+4,15.94,18.44,spk_0,neutral,I'm I'm doing okay Ah ,okay ah,0,POSITIVE,0.9997422099113464,0
+5,19.74,21.98,spk_0,diary,I had another interesting week last week ,another interesting week last week,0,POSITIVE,0.9804074168205261,0
+6,23.04,25.57,spk_1,neutral,Great Well I want to hear all about it that you have your ,great well want hear,0,POSITIVE,0.9998314380645752,0
+7,25.57,26.45,spk_1,neutral,diary card ,diary card,1,NEGATIVE,0.6070690751075745,1
+8,27.94,32.69,spk_0,risk,I do but yeah I do have my direct card I haven't been very ,yeah direct card,1,NEGATIVE,0.9966533780097961,1
+9,32.69,33.86,spk_0,risk,regular with it but ,regular,1,POSITIVE,0.9913617968559265,0
+10,34.74,35.54,spk_0,risk,and do however ,however,1,POSITIVE,0.5130987763404846,0
+11,35.88,38.85,spk_1,risk,Is there anything in it Is it you have ,anything,1,NEGATIVE,0.9729523062705994,1
+12,39.38,40.49,spk_0,risk,Is there anything ,anything,1,NEGATIVE,0.749788224697113,1
+13,40.5,42.15,spk_1,neutral,filled out ,filled,0,POSITIVE,0.9800148010253906,0
+14,42.74,46.37,spk_0,neutral,Not really I've made mental notes but they were really ,really made mental note really,1,POSITIVE,0.6823334097862244,0
+15,46.37,46.75,spk_0,neutral,feeling ,feeling,0,POSITIVE,0.9933618307113647,0
+16,47.31,53.07,spk_1,diary,well Well let's let's do that then Uh um Well let's see ,well well let let uh um well let see,1,POSITIVE,0.9946434497833252,0
+17,53.07,55.66,spk_1,diary,we're not looking at the same thing Maybe you can walk me ,looking thing maybe walk,0,NEGATIVE,0.9810432195663452,0
+18,55.66,56.35,spk_1,diary,through ,,1,POSITIVE,0.8996744751930237,0
+19,56.94,58.95,spk_1,agenda,where Your each part of it ,part,1,POSITIVE,0.802933931350708,0
+20,61.54,64.79,spk_0,neutral,So I can walk you through my week That or do you ,walk week,0,POSITIVE,0.9943946599960327,0
+21,65.0,67.95,spk_1,neutral,like I think so Tell me what Um ,like think tell um,0,POSITIVE,0.9058008193969727,0
+22,68.54,71.85,spk_1,neutral,what skills have you used like you ,skill used like,0,POSITIVE,0.9994693398475647,0
+23,72.24,74.51,spk_1,neutral,you know Can you think I guess you could walk through you ,know think guess could walk,1,POSITIVE,0.9898802042007446,0
+24,74.51,77.85,spk_1,neutral,week Let's do that then Yeah let's let's go through your ,week let yeah let let go,0,POSITIVE,0.8616834282875061,0
+25,77.85,81.65,spk_1,neutral,week without like keep it a little bit focused on first ,week without like keep little bit focused first,0,NEGATIVE,0.9875143766403198,0
+26,81.65,84.46,spk_1,neutral,filling out the card and then we'll focus on the area You ,filling card focus area,0,POSITIVE,0.9944116473197937,0
+27,84.46,86.3,spk_1,neutral,wanna you know that's important to you ,wanna know important,1,POSITIVE,0.9992944002151489,0
+28,86.84,89.75,spk_1,agenda,So um let's go from last ,um let go last,1,NEGATIVE,0.9554904699325562,1
+29,90.64,93.65,spk_1,diary,last two Last Tuesday ,last two last tuesday,0,POSITIVE,0.9534384608268738,0
+30,94.74,97.55,spk_1,neutral,The last Monday after we met I guess on ,last monday met guess,1,NEGATIVE,0.8852143287658691,1
+31,100.54,101.85,spk_0,neutral,So uh ,uh,0,NEGATIVE,0.9953272342681885,0
+32,102.44,105.45,spk_0,neutral,yeah I guess very quickly Um ,yeah guess quickly um,0,POSITIVE,0.9834517240524292,0
+33,106.94,110.99,spk_0,review,if I think about it on Tuesday I think after after we met I ,think tuesday think met,1,POSITIVE,0.7418301701545715,0
+34,110.99,113.85,spk_0,review,always feel very energized after we met too ,always feel energized met,0,POSITIVE,0.9992109537124634,0
+35,114.24,118.57,spk_0,agenda,Sort of Try harder and be better about maintaining my diary ,sort try harder better maintaining diary,0,NEGATIVE,0.9994589686393738,0
+36,118.57,119.65,spk_0,agenda,card and so on ,card,1,POSITIVE,0.8914766311645508,0
+37,120.14,124.15,spk_0,neutral,And um like the first couple of days I feel like ,um like first couple day feel like,0,NEGATIVE,0.9463668465614319,0
+38,124.64,127.93,spk_0,agenda,Oh I'm I'm getting all this help and I'm getting all this ,oh getting help getting,0,POSITIVE,0.9899744391441345,0
+39,127.93,128.55,spk_0,agenda,therapy ,therapy,0,POSITIVE,0.9775949120521545,0
+40,129.34,133.68,spk_0,agenda,Um someone is giving about me So I should put in some effort ,um someone giving put effort,0,NEGATIVE,0.9977173805236816,0
+41,133.69,140.5,spk_0,agenda,to also you know work towards becoming better So those are ,also know work towards becoming better,0,POSITIVE,0.9686819911003113,0
+42,140.51,144.98,spk_0,agenda,hold the Tuesday and minutes they are spent Ah typically but ,hold tuesday minute spent ah typically,0,NEGATIVE,0.9846495985984802,0
+43,144.98,145.35,spk_0,agenda,light ,light,0,POSITIVE,0.9996830224990845,0
+44,145.84,149.1,spk_0,neutral,government is the afternoon When I say evening my ,government afternoon say evening,1,NEGATIVE,0.8605139255523682,1
+45,149.54,153.94,spk_0,neutral,more deviation start slacking and I go back to feeling a ,deviation start slacking go back feeling,0,NEGATIVE,0.9950032830238342,0
+46,153.94,155.35,spk_0,neutral,little bit depressed ,little bit depressed,0,NEGATIVE,0.9996325969696045,0
+47,156.14,156.75,spk_0,agenda,Um ,um,1,NEGATIVE,0.9149323105812073,1
+48,157.64,161.77,spk_0,review,work typically ends up happening is I will then indulge in ,work typically end happening indulge,1,POSITIVE,0.9545831084251404,0
+49,161.77,162.45,spk_0,review,some ,,1,POSITIVE,0.9430916905403137,0
+50,163.34,168.04,spk_0,neutral,board and like I will eat some sweets typically and eat some ,board like eat sweet typically eat,0,POSITIVE,0.9990119934082031,0
+51,168.04,169.85,spk_0,neutral,junk food Um ,junk food um,0,NEGATIVE,0.9995852112770081,0
+52,170.74,171.75,spk_0,neutral,okay ,okay,1,POSITIVE,0.9997709393501282,0
+53,172.94,177.98,spk_0,risk,if I will start in the afternoon and you know like I'm ,start afternoon know like,0,POSITIVE,0.9994204044342041,0
+54,177.98,181.56,spk_0,risk,feeling very very little like lunchtime Really And then I ,feeling little like lunchtime really,0,NEGATIVE,0.9947697520256042,0
+55,181.56,184.65,spk_0,risk,will be like maybe I'll take a small nap and I'll be okay ,like maybe take small nap okay,0,POSITIVE,0.9995903372764587,0
+56,184.65,188.07,spk_0,risk,And then I will be you know back to mention you But ,know back mention,1,POSITIVE,0.9548895359039307,0
+57,189.24,194.42,spk_0,risk,I end up taking a nap and then I'm like it's okay if I if I ,end taking nap like okay,1,POSITIVE,0.9994818568229675,0
+58,194.42,197.79,spk_0,risk,don't work immediately or if it's okay if I push my chores ,work immediately okay push chore,0,NEGATIVE,0.9994205236434937,0
+59,198.17,202.15,spk_0,risk,Ah it'll be like let me just watch this thing that is on TV ,ah like let watch thing tv,0,NEGATIVE,0.976669430732727,0
+60,202.54,203.15,spk_0,agenda,and ,,1,POSITIVE,0.9708178639411926,0
+61,204.04,207.48,spk_0,review,I will like Okay since I'm watching something on TV but I ,like okay since watching something tv,0,POSITIVE,0.9993952512741089,0
+62,207.48,211.88,spk_0,review,don't I eat some junk food and then it starts this weird ,eat junk food start weird,0,NEGATIVE,0.996276319026947,0
+63,211.88,215.19,spk_0,review,journey Oh observed a couple of times where I eat some bad ,journey oh observed couple time eat bad,0,NEGATIVE,0.9964126944541931,0
+64,215.19,217.95,spk_0,review,food and I feel very sick about it And ,food feel sick,1,NEGATIVE,0.9986205101013184,1
+65,218.34,222.18,spk_0,agenda,then I start feeling what is the point off Anything like ,start feeling point anything like,0,NEGATIVE,0.9842511415481567,0
+66,222.18,223.95,spk_0,agenda,those are the kind of feelings that's like ,kind feeling like,0,POSITIVE,0.998229444026947,0
+67,224.54,230.12,spk_0,neutral,Mm Okay I'm like I'm I'm lucky I have access to food And ,mm okay like lucky access food,1,POSITIVE,0.999691367149353,0
+68,230.43,232.35,spk_0,neutral,food will not be a problem for me ,food problem,0,POSITIVE,0.9975371360778809,0
+69,232.94,233.55,spk_0,neutral,Um ,um,1,NEGATIVE,0.9149323105812073,1
+70,234.44,235.75,spk_0,agenda,I can just you know ,know,1,POSITIVE,0.9972078204154968,0
+71,236.34,238.85,spk_0,neutral,slide through life without doing much So ,slide life without much,1,NEGATIVE,0.9942625164985657,1
+72,239.34,242.59,spk_0,neutral,just you know I indulge myself and ,know indulge,0,POSITIVE,0.9938878417015076,0
+73,243.14,244.05,spk_0,risk,I get into this ,get,1,POSITIVE,0.9901720881462097,0
+74,244.74,248.66,spk_0,risk,What is the point of anything kind of June by the unit and ,point anything kind june unit,1,NEGATIVE,0.9842033386230469,1
+75,248.66,249.16,spk_0,risk,I'm like ,like,0,POSITIVE,0.9995259046554565,0
+76,250.04,253.69,spk_0,neutral,this is all fine It's okay today was bad and I will pick up ,fine okay today wa bad pick,0,POSITIVE,0.9995697140693665,0
+77,253.69,257.35,spk_0,neutral,tomorrow But I often don't recover because ,tomorrow often recover,1,NEGATIVE,0.998931348323822,1
+78,258.14,262.11,spk_0,agenda,I don't know that it's what I'm eating are what I'm feeling ,know eating feeling,0,NEGATIVE,0.9445450901985168,0
+79,262.12,265.45,spk_0,agenda,But we between is more dominant but it's like ,dominant like,0,POSITIVE,0.9970384836196899,0
+80,266.34,267.95,spk_0,neutral,uh I feel like ,uh feel like,0,NEGATIVE,0.9696406126022339,0
+81,268.54,272.16,spk_0,neutral,that wasn't too bad today I want some interesting shows Sure ,bad today want interesting show sure,1,POSITIVE,0.9983867406845093,0
+82,272.29,276.02,spk_0,neutral,And I was on the couch and you know playing with Instagram ,wa couch know playing instagram,0,NEGATIVE,0.9750749468803406,0
+83,276.3,279.65,spk_0,neutral,But maybe today will be better But ,maybe today better,0,NEGATIVE,0.881563127040863,0
+84,280.84,285.36,spk_0,diary,somewhere around the afternoon I get derailed again I ,somewhere around afternoon get derailed,1,NEGATIVE,0.9987735152244568,1
+85,285.36,287.57,spk_0,diary,started the day Well then I could be real again ,started day well could real,0,POSITIVE,0.9973664879798889,0
+86,288.34,293.64,spk_0,neutral,Um typically if I get the like twice like on Thursday and ,um typically get like twice like thursday,1,POSITIVE,0.7135458588600159,0
+87,293.64,295.03,spk_0,neutral,Friday if I can be real them ,friday real,1,NEGATIVE,0.8124818205833435,1
+88,296.14,299.63,spk_0,review,I'm already yet Saturday Sunday and I'm like Well that's the ,already yet saturday sunday like well,0,POSITIVE,0.9997902512550354,0
+89,299.63,302.97,spk_0,review,weekend now So I don't need to work anymore or I don't need ,weekend need work anymore need,0,NEGATIVE,0.6606605648994446,0
+90,302.97,307.52,spk_0,review,to get take care of myself And on weekend I can eat some ,get take care weekend eat,1,POSITIVE,0.9973551034927368,0
+91,307.52,312.27,spk_0,review,cheat for so you know in all of this like maybe I mean a ,cheat know like maybe mean,0,NEGATIVE,0.9989149570465088,0
+92,312.27,314.45,spk_0,review,little regular with my gym stuff but ,little regular gym stuff,0,NEGATIVE,0.6184693574905396,0
+93,314.94,318.44,spk_0,neutral,not so much But weekend I'm like weekend is when I can meet ,much weekend like weekend meet,1,POSITIVE,0.9978850483894348,0
+94,318.44,319.75,spk_0,neutral,some people finally and ,people finally,1,POSITIVE,0.9966315627098083,0
+95,320.54,324.86,spk_0,neutral,I truly let go And come Saturday afternoon I start feeling ,truly let go come saturday afternoon start feeling,1,POSITIVE,0.9915297031402588,0
+96,324.87,327.05,spk_0,neutral,really bad about how the week is gone ,really bad week gone,0,NEGATIVE,0.9997338652610779,0
+97,327.64,333.22,spk_0,neutral,And then I'm like I I feel coming to this session with you ,like feel coming session,1,POSITIVE,0.999170184135437,0
+98,333.22,337.53,spk_0,neutral,because I'm like all I'm going to tell you is how the level ,like going tell level,0,POSITIVE,0.9990466237068176,0
+99,337.53,341.88,spk_0,neutral,and their bean through the week and uh I'm going to feel ,bean week uh going feel,0,POSITIVE,0.9661043882369995,0
+100,341.88,346.89,spk_0,neutral,like someone is uh judging me And I'm like ,like someone uh judging like,0,NEGATIVE,0.9822252988815308,0
+101,347.34,350.72,spk_0,diary,I don't want to talk to you because it is Yeah it's one more ,want talk yeah one,1,NEGATIVE,0.9390974044799805,1
+102,350.72,352.15,spk_0,diary,person who's going to judge me ,person going judge,1,POSITIVE,0.9969685673713684,0
+103,352.34,357.48,spk_0,neutral,and it pushes me down like a very good trip and nothing ,push like good trip nothing,0,NEGATIVE,0.9021521210670471,0
+104,357.48,357.85,spk_0,neutral,there ,,1,POSITIVE,0.9937352538108826,0
+105,358.24,364.4,spk_0,review,I don't like I want to aware this meeting Then come the ,like want aware meeting come,0,NEGATIVE,0.9792366027832031,0
+106,364.4,367.52,spk_0,review,session I'm like No no but you know you promise yourself to ,session like know promise,1,POSITIVE,0.9992559552192688,0
+107,367.53,371.25,spk_0,review,meet David so you better meet him But ,meet david better meet,1,POSITIVE,0.9565123915672302,0
+108,371.84,374.63,spk_0,neutral,yeah that's why I end up eating you But sometimes I'm not ,yeah end eating sometimes,1,NEGATIVE,0.9495024085044861,1
+109,374.63,379.82,spk_0,neutral,looking forward to it So that's basically hold My week went ,looking forward basically hold week went,0,POSITIVE,0.9987884163856506,0
+110,380.04,383.35,spk_0,neutral,Yeah and I see that happening number of times ,yeah see happening number time,0,POSITIVE,0.9987494945526123,0
+111,384.74,386.22,spk_1,diary,Great Well I mean ,great well mean,0,POSITIVE,0.9994871616363525,0
+112,387.24,389.65,spk_1,agenda,sorry He had a rough week and ,sorry rough week,0,NEGATIVE,0.9996572732925415,0
+113,390.34,394.05,spk_1,neutral,great that we have all that data Now Talk about ,great data talk,0,POSITIVE,0.9993359446525574,0
+114,394.54,395.18,spk_1,neutral,um ,um,1,NEGATIVE,0.9149323105812073,1
+115,396.44,396.69,spk_1,neutral,okay ,okay,1,POSITIVE,0.9997709393501282,0
+116,397.44,401.96,spk_1,neutral,Yes So this week when you sound like like that's a pattern ,yes week sound like like pattern,0,NEGATIVE,0.9644254446029663,0
+117,401.96,403.25,spk_1,neutral,right So you ,right,0,POSITIVE,0.9998162388801575,0
+118,403.84,406.55,spk_1,review,um you're on is active as you want to be ,um active want,1,POSITIVE,0.9971484541893005,0
+119,407.14,409.6,spk_1,neutral,You feel guilty ,feel guilty,0,NEGATIVE,0.9955831170082092,0
+120,411.04,414.98,spk_1,neutral,Sounds like you could tell me if I'm wrong Sad too ,sound like could tell wrong sad,0,NEGATIVE,0.9963139891624451,0
+121,416.94,419.58,spk_0,neutral,Yeah I feel sad And ,yeah feel sad,0,NEGATIVE,0.9887406229972839,0
+122,423.44,427.88,spk_0,neutral,I think one problem that I faces I don't like feeling sorry ,think one problem face like feeling sorry,0,NEGATIVE,0.8178908228874207,0
+123,428.74,432.05,spk_0,neutral,And the moment I feel sorry I try to distract myself ,moment feel sorry try distract,1,NEGATIVE,0.9996579885482788,1
+124,433.24,436.75,spk_0,agenda,I'm noticing that often that distraction is becoming four ,noticing often distraction becoming four,0,NEGATIVE,0.774764358997345,0
+125,437.44,439.9,spk_0,diary,or walking TV And ,walking tv,0,NEGATIVE,0.8140097856521606,0
+126,441.64,446.9,spk_0,neutral,it's weird because once that did faction is done I end up ,weird faction done end,1,NEGATIVE,0.9955931305885315,1
+127,446.9,450.39,spk_0,neutral,feeling even more sad about I have my ,feeling even sad,0,NEGATIVE,0.9969350099563599,0
+128,451.34,451.64,spk_0,neutral,Yeah ,yeah,0,POSITIVE,0.9993269443511963,0
+129,452.54,454.85,spk_1,neutral,so But um ,um,1,NEGATIVE,0.9733798503875732,1
+130,456.04,461.16,spk_1,review,one thing's so any thoughts about harming yourself during ,one thing thought harming,1,NEGATIVE,0.9872478246688843,1
+131,461.16,465.84,spk_1,review,this like on Wednesday Thursday when this all started our ,like wednesday thursday started,0,NEGATIVE,0.5709444284439087,0
+132,465.85,466.85,spk_1,review,you know through the week ,know week,0,POSITIVE,0.6295241713523865,0
+133,470.64,470.85,spk_1,neutral,um ,um,1,NEGATIVE,0.9149323105812073,1
+134,471.24,475.12,spk_1,risk,you have the kind of thing you've had in the past I mean you ,kind thing past mean,0,POSITIVE,0.9773175716400146,0
+135,476.34,476.93,spk_1,neutral,you know ,know,1,POSITIVE,0.9976168870925903,0
+136,477.54,482.76,spk_1,neutral,danger your best into the wall or did anything like Did you ,danger best wall anything like,0,NEGATIVE,0.9924966096878052,0
+137,482.76,485.97,spk_1,neutral,have a thought Did you have anergic to do anything self ,thought anergic anything self,1,NEGATIVE,0.9823552966117859,1
+138,485.97,487.15,spk_1,neutral,destructive like that ,destructive like,0,NEGATIVE,0.9995564818382263,0
+139,487.54,488.29,spk_1,risk,Physically ,physically,0,POSITIVE,0.9985727071762085,0
+140,492.44,496.15,spk_0,risk,I felt like banging my head on the wall so that I roll ,felt like banging head wall roll,0,NEGATIVE,0.9995846152305603,0
+141,496.74,500.45,spk_0,neutral,feel like uh What the hell are you doing You know ,feel like uh hell know,0,NEGATIVE,0.9979972243309021,0
+142,500.94,503.96,spk_0,agenda,I feel that this number of times where ,feel number time,0,NEGATIVE,0.9568278193473816,0
+143,505.24,509.23,spk_0,neutral,I just like somewhere I don't get it I feel like that will ,like somewhere get feel like,0,POSITIVE,0.9875501990318298,0
+144,509.23,513.05,spk_0,neutral,kick start me to become active And ,kick start become active,0,POSITIVE,0.9992479681968689,0
+145,515.44,521.17,spk_0,neutral,like I think for me the cell phone is more associated with ,like think cell phone associated,0,NEGATIVE,0.9863016605377197,0
+146,521.37,525.3,spk_0,neutral,If I don't exist in the world won't make a difference ,exist world make difference,0,NEGATIVE,0.9987117052078247,0
+147,526.32,530.62,spk_1,review,So you had that thought and you you thought about paying ,thought thought paying,0,POSITIVE,0.7661020159721375,0
+148,530.62,533.55,spk_1,review,your head on the wall Well what day was that ,head wall well day wa,0,NEGATIVE,0.9842895865440369,0
+149,534.74,536.35,spk_1,neutral,What days or a day ,day day,0,NEGATIVE,0.6463165283203125,0
+150,536.84,538.85,spk_0,risk,I think it's when Like ,think like,0,POSITIVE,0.9903202652931213,0
+151,539.34,542.68,spk_0,diary,Thursday Friday when you know this ,thursday friday know,1,POSITIVE,0.9840098023414612,0
+152,543.14,546.83,spk_0,review,sort off little achy has set in and ,sort little achy ha set,0,NEGATIVE,0.9618957042694092,0
+153,548.34,549.74,spk_0,neutral,it's it's stocks ,stock,1,POSITIVE,0.6570888757705688,0
+154,550.11,553.71,spk_1,neutral,when you commute It was the multiple times on Thursday and ,commute wa multiple time thursday,0,NEGATIVE,0.9792472720146179,0
+155,553.71,554.35,spk_1,neutral,Friday ,friday,1,POSITIVE,0.9857555031776428,0
+156,555.44,558.01,spk_1,neutral,it was Is there a moment you can recall when you had that ,wa moment recall,1,POSITIVE,0.9906063079833984,0
+157,558.02,558.65,spk_1,neutral,thought ,thought,1,POSITIVE,0.997986912727356,0
+158,560.04,564.15,spk_0,neutral,So I remember until Tuesday night I was just you know ,remember tuesday night wa know,0,NEGATIVE,0.7929573059082031,0
+159,564.84,567.59,spk_0,neutral,thinking about something And we better do something about ,thinking something better something,0,NEGATIVE,0.6857178211212158,0
+160,568.44,572.14,spk_0,diary,some Facebook message or something about how someone's week ,facebook message something someone week,1,NEGATIVE,0.9837809801101685,1
+161,572.14,572.75,spk_0,diary,has been ,ha,0,POSITIVE,0.9838352203369141,0
+162,573.24,577.35,spk_0,review,And I was thinking back on my own week and I was like Holy ,wa thinking back week wa like holy,0,POSITIVE,0.9989481568336487,0
+163,577.35,578.22,spk_0,review,crap I ,crap,0,NEGATIVE,0.9996992349624634,0
+164,580.24,584.74,spk_0,neutral,I was not very productive I lot off people I had to call ,wa productive lot people call,0,NEGATIVE,0.9996895790100098,0
+165,584.74,588.96,spk_0,neutral,back I haven't called and like it just started That were ,back called like started,0,NEGATIVE,0.9479002356529236,0
+166,588.96,592.22,spk_0,neutral,spiral And I'm like I'm stupid I'm stupid and stupid is what ,spiral like stupid stupid stupid,0,NEGATIVE,0.9997598528862,0
+167,592.22,593.85,spk_0,neutral,I kept saying myself And that's okay ,kept saying okay,0,POSITIVE,0.9997889399528503,0
+168,594.64,595.54,spk_0,review,The fourth time ,fourth time,1,POSITIVE,0.9976098537445068,0
+169,596.34,597.45,spk_1,neutral,Thursday night ,thursday night,1,POSITIVE,0.989850640296936,0
+170,597.84,600.18,spk_0,agenda,Yeah that's the first time My first like ,yeah first time first like,0,POSITIVE,0.9994235038757324,0
+171,601.44,604.7,spk_0,neutral,if I just smashed myself in the head I will you know get ,smashed head know get,1,NEGATIVE,0.994817316532135,1
+172,604.7,606.01,spk_0,neutral,away with it are somehow ,away somehow,0,POSITIVE,0.5402324795722961,0
+173,606.74,607.14,spk_1,neutral,Yeah ,yeah,0,POSITIVE,0.9993269443511963,0
+174,607.54,608.76,spk_1,review,but it ,,1,NEGATIVE,0.5512736439704895,1
+175,609.54,610.25,spk_1,diary,you ,,1,POSITIVE,0.9991247057914734,0
+176,610.74,613.65,spk_1,neutral,tell me that you didn't Then you ,tell,1,NEGATIVE,0.8731838464736938,1
+177,613.66,617.24,spk_0,agenda,just Thursday I didn't uh But the first time ,thursday uh first time,1,POSITIVE,0.9853380918502808,0
+178,618.18,620.25,spk_1,diary,you had a thought did you ,thought,1,POSITIVE,0.982039749622345,0
+179,620.64,623.13,spk_1,neutral,would you know did you feel like there was an urge like it ,would know feel like wa urge like,0,POSITIVE,0.8435129523277283,0
+180,623.13,624.05,spk_1,neutral,was hard to know ,wa hard know,0,NEGATIVE,0.9991495609283447,0
+181,625.34,628.65,spk_1,neutral,Hard to not do it Did you feel energy Oh ,hard feel energy oh,0,POSITIVE,0.8759081959724426,0
+182,629.44,630.28,spk_1,neutral,bang your head ,bang head,1,NEGATIVE,0.9995243549346924,1
+183,632.84,636.84,spk_0,agenda,I I remember biting my lip Hard to stop myself from doing ,remember biting lip hard stop,0,NEGATIVE,0.9291654825210571,0
+184,636.84,637.73,spk_0,agenda,something like that ,something like,0,POSITIVE,0.998853325843811,0
+185,639.64,641.35,spk_1,neutral,when you bend your left Did ,bend left,0,NEGATIVE,0.9154109358787537,0
+186,642.34,644.55,spk_1,diary,did you You know what's it uh ,know uh,0,NEGATIVE,0.9776841402053833,0
+187,645.74,648.91,spk_1,review,was in a skillful biting or what Did you draw Blood I guess ,wa skillful biting draw blood guess,1,POSITIVE,0.986869752407074,0
+188,648.91,650.45,spk_1,review,You know Was it uh ,know wa uh,0,NEGATIVE,0.9943537712097168,0
+189,651.74,652.48,spk_0,neutral,I ,,1,POSITIVE,0.9797317385673523,0
+190,653.13,654.75,spk_1,neutral,look like I am now ,look like,0,POSITIVE,0.9990851879119873,0
+191,655.14,657.15,spk_1,neutral,Or was it You know more ,wa know,0,NEGATIVE,0.9858107566833496,0
+192,657.64,659.95,spk_1,review,really really hard and harmful ,really really hard harmful,0,NEGATIVE,0.9996055960655212,0
+193,664.24,666.13,spk_0,risk,I would say it was uh ,would say wa uh,1,NEGATIVE,0.9846551418304443,1
+194,667.44,670.36,spk_0,agenda,I don't think I was thinking very hard about what I was ,think wa thinking hard wa,1,NEGATIVE,0.996946394443512,1
+195,670.36,673.95,spk_0,agenda,doing I was just trying not to go and hang myself against ,wa trying go hang,1,NEGATIVE,0.9974206686019897,1
+196,673.95,674.44,spk_0,agenda,the wall ,wall,0,POSITIVE,0.9909572601318359,0
+197,675.14,678.04,spk_1,risk,So you got any blood when you put your lips ,got blood put lip,0,NEGATIVE,0.9483928680419922,0
+198,678.42,679.75,spk_0,neutral,I think a little bit ,think little bit,0,POSITIVE,0.9524177312850952,0
+199,680.24,680.81,spk_0,neutral,Yeah ,yeah,0,POSITIVE,0.9993269443511963,0
+200,682.44,684.25,spk_1,neutral,Did it hurt the next day ,hurt next day,1,NEGATIVE,0.995663583278656,1
+201,685.14,688.88,spk_0,diary,Yeah That won't make it didn't But the next day I was like ,yeah make next day wa like,0,POSITIVE,0.9945307374000549,0
+202,689.99,691.07,spk_0,diary,This is hurting ,hurting,0,NEGATIVE,0.9995405673980713,0
+203,691.54,696.55,spk_0,review,and like it actually made me feel um more stupid and there ,like actually made feel um stupid,0,NEGATIVE,0.997209370136261,0
+204,697.34,700.95,spk_1,neutral,and so So let's talk about So ,let talk,1,POSITIVE,0.9879528880119324,0
+205,701.34,701.95,spk_1,review,um ,um,1,NEGATIVE,0.9149323105812073,1
+206,703.14,707.6,spk_1,diary,so And then what about after that So Friday comes along ,friday come along,0,NEGATIVE,0.5049407482147217,0
+207,708.24,712.56,spk_1,neutral,so that's the lowest you know moment of the week when it ,lowest know moment week,0,NEGATIVE,0.999581515789032,0
+208,712.56,713.83,spk_1,neutral,would happen Friday ,would happen friday,1,POSITIVE,0.975329577922821,0
+209,715.34,717.54,spk_0,neutral,So Friday was ,friday wa,1,POSITIVE,0.8788625597953796,0
+210,718.64,723.25,spk_0,neutral,when I actually bang my head dead Okay Now I could swear ,actually bang head dead okay could swear,1,NEGATIVE,0.9928221106529236,1
+211,723.64,727.31,spk_0,agenda,I think I got that card from Thursday and I was looking at ,think got card thursday wa looking,1,POSITIVE,0.9127660989761353,0
+212,727.32,731.75,spk_0,agenda,my bit left and I was like What the hell am I doing And ,bit left wa like hell,1,POSITIVE,0.9630648493766785,0
+213,732.74,734.85,spk_0,neutral,that moment I couldn't control myself ,moment control,1,NEGATIVE,0.9895825386047363,1
+214,735.34,737.3,spk_0,review,And that's that's actually how we're ,actually,0,POSITIVE,0.9998102784156799,0
+215,738.34,740.99,spk_0,review,how I carried myself into the weekend because ,carried weekend,1,POSITIVE,0.9977697134017944,0
+216,742.74,745.82,spk_0,diary,I thought when I banged my head against the wall I had gone ,thought banged head wall gone,0,NEGATIVE,0.9993126392364502,0
+217,745.82,746.74,spk_0,diary,a little too far ,little far,0,NEGATIVE,0.9989186525344849,0
+218,747.64,751.38,spk_0,risk,And I was like I need to relax on the weekend you know And ,wa like need relax weekend know,0,NEGATIVE,0.8096958994865417,0
+219,751.8,756.26,spk_0,risk,it's like all those emotions coming together and me feeling ,like emotion coming together feeling,0,POSITIVE,0.9986212253570557,0
+220,756.26,756.65,spk_0,risk,like ,like,0,POSITIVE,0.9910564422607422,0
+221,758.44,762.42,spk_0,risk,May I was feeling worthless basically Yeah my head And then ,may wa feeling worthless basically yeah head,0,NEGATIVE,0.9993294477462769,0
+222,762.42,768.58,spk_0,risk,I was like I don't want to I don't want to go that far again ,wa like want want go far,1,NEGATIVE,0.9989878535270691,1
+223,768.71,770.87,spk_0,risk,and let me relax And ,let relax,0,POSITIVE,0.9994691014289856,0
+224,771.84,774.56,spk_0,neutral,so chronically that didn't help comes and ,chronically help come,1,NEGATIVE,0.9949831962585449,1
+225,774.71,775.24,spk_1,agenda,yeah ,yeah,0,POSITIVE,0.9993269443511963,0
+226,775.64,778.87,spk_1,neutral,was at the last time you did that or what What what happened ,wa last time happened,0,NEGATIVE,0.9985511898994446,0
+227,778.87,779.75,spk_1,neutral,over the weekend ,weekend,1,POSITIVE,0.986504852771759,0
+228,780.94,785.52,spk_0,neutral,So we can I decided to meet a few people and you know kind ,decided meet people know kind,0,POSITIVE,0.9987784028053284,0
+229,785.52,786.75,spk_0,neutral,of distract myself ,distract,1,NEGATIVE,0.9915353059768677,1
+230,787.14,787.76,spk_0,review,Um ,um,1,NEGATIVE,0.9149323105812073,1
+231,788.94,794.05,spk_0,neutral,so I was able to sort of run away from this and I felt a ,wa able sort run away felt,0,NEGATIVE,0.9797049760818481,0
+232,794.05,794.97,spk_0,neutral,little bit better ,little bit better,0,POSITIVE,0.9967436790466309,0
+233,795.44,798.81,spk_0,neutral,The short sighted I was actually pretty okay We met some ,short sighted wa actually pretty okay met,1,POSITIVE,0.9995543360710144,0
+234,798.81,800.55,spk_0,neutral,friends We had good food ,friend good food,0,POSITIVE,0.9998681545257568,0
+235,801.04,801.85,spk_0,neutral,Uh ,uh,0,NEGATIVE,0.9962899684906006,0
+236,802.24,804.95,spk_0,neutral,Sunday morning I think we met someone for brunch ,sunday morning think met someone brunch,0,NEGATIVE,0.8348852396011353,0
+237,806.24,809.7,spk_0,agenda,and then I was okay again right And I was like Okay ,wa okay right wa like okay,0,POSITIVE,0.9998575448989868,0
+238,810.14,812.15,spk_0,risk,this is good I'm feeling better ,good feeling better,0,POSITIVE,0.9998407363891602,0
+239,812.94,813.55,spk_0,risk,and ,,1,POSITIVE,0.9708178639411926,0
+240,814.04,818.08,spk_0,neutral,come like Sunday evening It all started coming back again ,come like sunday evening started coming back,0,POSITIVE,0.9862020611763,0
+241,818.09,818.75,spk_0,neutral,right Like ,right like,0,POSITIVE,0.9998400211334229,0
+242,820.24,824.16,spk_0,neutral,I don't know I just felt guilty about the weekend to when ,know felt guilty weekend,0,NEGATIVE,0.8156165480613708,0
+243,827.04,830.13,spk_0,neutral,I was supposed to have been better and I just fell ,wa supposed better fell,0,NEGATIVE,0.9996308088302612,0
+244,830.84,833.64,spk_0,diary,Oh yeah I wasn't Yeah ,oh yeah yeah,0,NEGATIVE,0.9961930513381958,0
+245,835.04,839.59,spk_0,neutral,So Sunday evening was also pretty hard And I was ,sunday evening wa also pretty hard wa,0,NEGATIVE,0.9836143255233765,0
+246,841.44,843.98,spk_1,agenda,it's of your like last night last night then ,like last night last night,1,POSITIVE,0.9952555298805237,0
+247,844.26,845.2,spk_0,neutral,B I lost my ,b lost,0,NEGATIVE,0.9997140765190125,0
+248,845.59,848.35,spk_1,risk,last night in any self harm last night ,last night self harm last night,1,POSITIVE,0.833420991897583,0
+249,851.64,855.38,spk_0,neutral,No I I didn't do any Nor I ,,1,NEGATIVE,0.9992291927337646,1
+250,855.65,857.35,spk_1,neutral,did You think about it ,think,1,POSITIVE,0.992811381816864,0
+251,859.34,861.85,spk_0,agenda,Yeah I I did think about it and ,yeah think,0,POSITIVE,0.9978300929069519,0
+252,862.24,863.35,spk_0,neutral,I was thinking about ,wa thinking,1,POSITIVE,0.9984869956970215,0
+253,864.54,869.87,spk_0,diary,how stupid I was on Friday Right on I was like I shouldn't ,stupid wa friday right wa like,0,NEGATIVE,0.9995942711830139,0
+254,869.87,872.7,spk_0,diary,do that again Like somewhere it was telling me that you're ,like somewhere wa telling,0,NEGATIVE,0.6178618669509888,0
+255,872.7,873.49,spk_0,diary,going to follow ,going follow,1,POSITIVE,0.9995855689048767,0
+256,874.24,876.14,spk_0,neutral,This might be like a slip of the smoke ,might like slip smoke,0,NEGATIVE,0.9990283250808716,0
+257,876.78,880.35,spk_1,review,and then you you you But you had a nerve to bang your head ,nerve bang head,1,NEGATIVE,0.9990173578262329,1
+258,882.94,885.05,spk_0,review,You know when I get into that like ,know get like,0,POSITIVE,0.8633537292480469,0
+259,886.34,890.11,spk_0,neutral,I think I did But back bang my head on Friday because ,think back bang head friday,1,NEGATIVE,0.9992421865463257,1
+260,890.11,892.87,spk_0,neutral,somewhere in my mind that was something I should do on ,somewhere mind wa something,0,POSITIVE,0.9793039560317993,0
+261,892.87,895.91,spk_0,neutral,Thursday But when I really get into that state ,thursday really get state,1,NEGATIVE,0.9370482563972473,1
+262,897.14,900.04,spk_0,neutral,I don't know what what I do Sometimes I might just punch a ,know sometimes might punch,1,NEGATIVE,0.9986485838890076,1
+263,900.04,901.84,spk_0,neutral,wall or you know yeah ,wall know yeah,0,POSITIVE,0.9868610501289368,0
+264,902.24,905.62,spk_1,neutral,Did you do anything like that Sunday Did you have a nerve to ,anything like sunday nerve,0,POSITIVE,0.9717803597450256,0
+265,905.62,908.25,spk_1,neutral,do anything like that on Sunday Last night I mean ,anything like sunday last night mean,0,NEGATIVE,0.8809983134269714,0
+266,909.24,912.45,spk_0,neutral,I definitely heard of worlds to do that ,definitely heard world,1,POSITIVE,0.9994521737098694,0
+267,912.84,913.25,spk_0,agenda,okay ,okay,1,POSITIVE,0.9997709393501282,0
+268,913.94,915.85,spk_1,agenda,And but you didn't ,,1,NEGATIVE,0.9313631057739258,1
+269,916.44,919.85,spk_0,agenda,I didn't because I was feeling very ashamed and ,wa feeling ashamed,0,NEGATIVE,0.9855280518531799,0
+270,920.24,923.78,spk_0,diary,some you know because I've meet you on Mondays all of that ,know meet monday,1,POSITIVE,0.9981573224067688,0
+271,923.78,928.17,spk_0,diary,shocks playing in my head by Sunday afternoon Evening which ,shock playing head sunday afternoon evening,0,NEGATIVE,0.880212128162384,0
+272,928.17,931.43,spk_0,diary,is why I'm feeling sad too And I'm like Well if I do that ,feeling sad like well,0,POSITIVE,0.9997320771217346,0
+273,931.44,933.8,spk_0,diary,again maybe I'll have to bring it out Yeah ,maybe bring yeah,0,NEGATIVE,0.9407758116722107,0
+274,934.19,939.13,spk_1,agenda,Okay so we're we're working on the diary card but these are ,okay working diary card,1,NEGATIVE,0.9684877395629883,1
+275,939.13,939.99,spk_1,agenda,the things ,thing,0,POSITIVE,0.996350884437561,0
+276,940.74,943.25,spk_1,risk,you will and the future You'll say ,future say,1,POSITIVE,0.9997451901435852,0
+277,943.94,945.33,spk_1,review,on your diary card ,diary card,1,NEGATIVE,0.8764498233795166,1
+278,946.54,949.75,spk_1,neutral,the area Can you see the area where it says self harm ,area see area say self harm,0,NEGATIVE,0.9738116264343262,0
+279,950.34,952.55,spk_1,diary,We We created this story card together ,created story card together,1,NEGATIVE,0.5096724629402161,1
+280,953.04,957.31,spk_1,neutral,and you know there's an area for self harm and we know kinds ,know area self harm know kind,0,NEGATIVE,0.6337915658950806,0
+281,957.31,960.01,spk_1,neutral,of ways you've done that Punching the wall banging your head ,way done punching wall banging head,0,NEGATIVE,0.9989294409751892,0
+282,960.74,964.79,spk_1,neutral,Um so you just check that off Friday Boom And that way we ,um check friday boom way,1,POSITIVE,0.9947287440299988,0
+283,964.79,968.92,spk_1,neutral,know that's one thing we'll talk about you know in that in ,know one thing talk know,0,POSITIVE,0.9084533452987671,0
+284,968.92,971.19,spk_1,neutral,our encounter and we'll save some time ,encounter save time,1,NEGATIVE,0.8417830467224121,1
+285,971.64,974.07,spk_1,agenda,so make sure you check that off Now we're doing the diarrhea ,make sure check diarrhea,0,POSITIVE,0.9913750290870667,0
+286,974.07,974.48,spk_1,agenda,car ,car,1,POSITIVE,0.9959701299667358,0
+287,976.06,976.55,spk_0,neutral,time ,time,0,POSITIVE,0.9580850005149841,0
+288,976.75,978.55,spk_1,neutral,And then what ,,1,POSITIVE,0.983239471912384,0
+289,978.94,982.06,spk_1,neutral,Once So it doesn't sound like I did What I didn't hear you ,sound like hear,0,NEGATIVE,0.9988741278648376,0
+290,982.06,982.75,spk_1,neutral,say ,say,1,POSITIVE,0.9529455304145813,0
+291,983.44,985.55,spk_1,agenda,is and then I use this skill ,use skill,0,POSITIVE,0.9993228912353516,0
+292,985.94,986.87,spk_1,neutral,you know Then I ,know,1,POSITIVE,0.9967252612113953,0
+293,987.84,991.55,spk_1,diary,um But let me ask you But somehow someday was different than ,um let ask somehow someday wa different,1,POSITIVE,0.9558750987052917,0
+294,991.56,997.74,spk_1,diary,Friday right Same pattern shame guilt sadness Avoiding the ,friday right pattern shame guilt sadness avoiding,0,NEGATIVE,0.9723318219184875,0
+295,997.74,998.86,spk_1,diary,sadness ,sadness,0,NEGATIVE,0.9987658262252808,0
+296,999.74,1001.26,spk_1,risk,calling yourself stupid ,calling stupid,0,NEGATIVE,0.9997543692588806,0
+297,1001.84,1006.15,spk_1,neutral,Um but on Sunday you thought about meeting with me ,um sunday thought meeting,0,POSITIVE,0.9264620542526245,0
+298,1006.84,1008.56,spk_1,neutral,You did experience shame ,experience shame,0,NEGATIVE,0.9932923316955566,0
+299,1008.94,1011.48,spk_1,neutral,Sometimes Shame though makes things worse ,sometimes shame though make thing worse,0,NEGATIVE,0.9995637536048889,0
+300,1012.14,1017.18,spk_1,neutral,But um it's I guess there was a thinking about meeting with ,um guess wa thinking meeting,1,NEGATIVE,0.9707674980163574,1
+301,1017.18,1019.09,spk_1,neutral,me Let ,let,1,NEGATIVE,0.9796058535575867,1
+302,1019.54,1020.23,spk_1,risk,how the ,,1,POSITIVE,0.6350153684616089,0
+303,1020.74,1024.26,spk_1,diary,a direct impact on you whether you acted on the urge or not ,direct impact whether acted urge,1,POSITIVE,0.9992378950119019,0
+304,1025.04,1026.14,spk_0,risk,Yes absolutely ,yes absolutely,0,POSITIVE,0.9998520612716675,0
+305,1027.54,1030.08,spk_1,review,So we're gonna want to understand that today So I think like ,gonna want understand today think like,1,POSITIVE,0.9984676241874695,0
+306,1030.08,1033.51,spk_1,review,today the highest thing Look take a step back What are our ,today highest thing look take step back,0,POSITIVE,0.8757869601249695,0
+307,1033.51,1036.95,spk_1,review,goals here What you do goes your goal ,goal go goal,0,POSITIVE,0.9979872703552246,0
+308,1037.34,1039.26,spk_1,diary,is to be more productive at work ,productive work,0,NEGATIVE,0.9492007493972778,0
+309,1041.14,1043.35,spk_1,neutral,to be able to go ,able go,0,POSITIVE,0.9997641444206238,0
+310,1043.74,1044.35,spk_1,diary,um ,um,1,NEGATIVE,0.9149323105812073,1
+311,1045.54,1047.16,spk_1,risk,sustain a relationship ,sustain relationship,0,POSITIVE,0.9997908473014832,0
+312,1047.64,1048.45,spk_1,diary,you know ,know,1,POSITIVE,0.9976168870925903,0
+313,1049.14,1053.29,spk_1,review,sustained more relationships romantic and with friends ,sustained relationship romantic friend,0,POSITIVE,0.9997739195823669,0
+314,1054.14,1057.79,spk_1,diary,Um but I think highest was was more productive at work And ,um think highest wa wa productive work,0,NEGATIVE,0.9904611706733704,0
+315,1057.79,1061.3,spk_1,diary,you saw that as a you know important step in your ,saw know important step,1,POSITIVE,0.9991211295127869,0
+316,1061.84,1063.85,spk_1,diary,towards his every area of your life ,towards every area life,0,POSITIVE,0.9972507357597351,0
+317,1064.74,1067.16,spk_1,neutral,But so we we ,,1,POSITIVE,0.9959831237792969,0
+318,1068.04,1073.41,spk_1,neutral,we can like pull pull just then the quick you know analyses ,like pull pull quick know analysis,1,NEGATIVE,0.5181471109390259,1
+319,1073.41,1075.95,spk_1,neutral,we've done We can see how much ,done see much,1,POSITIVE,0.9984898567199707,0
+320,1076.34,1081.0,spk_1,neutral,um you get you get in these cycles where then and self harm ,um get get cycle self harm,0,NEGATIVE,0.9921764731407166,0
+321,1081.0,1084.52,spk_1,neutral,is actually part of the cycle That takes you much weight ,actually part cycle take much weight,0,POSITIVE,0.9768631458282471,0
+322,1084.53,1086.11,spk_1,neutral,further away from your goals ,away goal,0,NEGATIVE,0.926899790763855,0
+323,1086.74,1090.62,spk_1,neutral,And um in this DVT So we're gonna you know this is how it ,um dvt gonna know,1,POSITIVE,0.6496669054031372,0
+324,1090.62,1093.35,spk_1,neutral,works We've got a we've got Ah ,work got got ah,0,POSITIVE,0.9972531199455261,0
+325,1093.74,1096.05,spk_1,neutral,um stop self harm ,um stop self harm,1,NEGATIVE,0.9597963690757751,1
+326,1096.84,1098.35,spk_1,neutral,so we can focus on ,focus,0,POSITIVE,0.9944189786911011,0
+327,1098.84,1101.99,spk_1,risk,more directly on your goals and you know and also you can ,directly goal know also,0,POSITIVE,0.9986822009086609,0
+328,1101.99,1104.99,spk_1,risk,see the connection between how the self harm gets in the way ,see connection self harm get way,1,POSITIVE,0.9889266490936279,0
+329,1104.99,1109.82,spk_1,risk,of goals You achieving your goals So So that's today I think ,goal achieving goal today think,0,POSITIVE,0.9996541738510132,0
+330,1109.83,1111.16,spk_1,risk,with the rest of our ,rest,0,POSITIVE,0.9989168643951416,0
+331,1112.14,1115.47,spk_1,risk,you know 30 minutes are agendas Got to be Let's focus on ,know 30 minute agenda got let focus,0,NEGATIVE,0.9994202852249146,0
+332,1115.48,1118.9,spk_1,risk,Friday and Sunday I was Sunday Better that and I will say ,friday sunday wa sunday better say,0,NEGATIVE,0.5795658826828003,0
+333,1118.9,1122.06,spk_1,risk,better Like the outcome was you didn't harm yourself And ,better like outcome wa harm,0,POSITIVE,0.992388904094696,0
+334,1122.06,1124.88,spk_1,risk,that's awesome right So you had a nerve He didn't harm ,awesome right nerve harm,1,POSITIVE,0.9996448755264282,0
+335,1124.88,1126.85,spk_1,risk,yourself Let's bottle that up ,let bottle,1,NEGATIVE,0.9510882496833801,1
+336,1127.54,1130.77,spk_1,neutral,If you are skillful you know let's find that skill that you ,skillful know let find skill,0,POSITIVE,0.9979265928268433,0
+337,1130.77,1134.55,spk_1,neutral,used and make sure we bring that on board on Friday ,used make sure bring board friday,0,POSITIVE,0.9522277116775513,0
+338,1135.14,1138.16,spk_1,diary,Okay so that's where we're gonna work on now ,okay gonna work,1,POSITIVE,0.998964786529541,0
+339,1138.74,1141.49,spk_1,neutral,Um there's no skill Sounds like there's no skills I was ,um skill sound like skill wa,0,NEGATIVE,0.9997568726539612,0
+340,1141.49,1143.2,spk_1,neutral,there any moment in the week where you know you were ,moment week know,0,POSITIVE,0.9358682036399841,0
+341,1143.2,1146.45,spk_1,neutral,skillful and you can circle a skill on the diary card ,skillful circle skill diary card,1,POSITIVE,0.9994831085205078,0
+342,1147.94,1151.37,spk_0,agenda,Would would you be able to remain me work skills we ,would would able remain work skill,0,NEGATIVE,0.965511679649353,0
+343,1151.37,1152.68,spk_0,agenda,discussed I should use ,discussed use,1,POSITIVE,0.7347319722175598,0
+344,1152.69,1156.18,spk_1,agenda,So yes So when some of those times we've talked about when ,yes time talked,0,POSITIVE,0.9987670183181763,0
+345,1156.18,1159.25,spk_1,agenda,you're feeling sad you conduce kind of mindfulness to a ,feeling sad conduce kind mindfulness,0,NEGATIVE,0.9437931180000305,0
+346,1159.25,1162.79,spk_1,agenda,current emotion like mother tight When you kind of leaned in ,current emotion like mother tight kind leaned,1,NEGATIVE,0.9156271815299988,1
+347,1162.79,1166.31,spk_1,agenda,tears try thought about it leaned into your sadness instead ,tear try thought leaned sadness instead,1,NEGATIVE,0.9864646196365356,1
+348,1166.31,1166.6,spk_1,agenda,of ,,1,POSITIVE,0.9193394780158997,0
+349,1166.94,1169.39,spk_1,agenda,you know moving on to the next thing We're avoiding it or ,know moving next thing avoiding,0,NEGATIVE,0.9992634654045105,0
+350,1169.39,1170.85,spk_1,agenda,starting to beat yourself up ,starting beat,0,NEGATIVE,0.9965810179710388,0
+351,1171.24,1174.35,spk_1,neutral,where the times when you just sat with it leaned into it ,time sat leaned,1,NEGATIVE,0.9335552453994751,1
+352,1174.74,1179.23,spk_1,neutral,Imagine you know that the metaphor of being waves sadness ,imagine know metaphor wave sadness,0,NEGATIVE,0.955933153629303,0
+353,1179.23,1182.41,spk_1,neutral,being waves on the beach and you being there with your your ,wave beach,1,POSITIVE,0.9972807168960571,0
+354,1182.41,1186.28,spk_1,neutral,posts One of um the signs saying I'm not my emotion ,post one um sign saying emotion,1,NEGATIVE,0.9994716048240662,1
+355,1186.94,1189.46,spk_1,neutral,and the other one reminding you that you know ,one reminding know,1,POSITIVE,0.9968359470367432,0
+356,1190.64,1192.67,spk_1,risk,you won't You won't always feel this way ,always feel way,0,NEGATIVE,0.9819928407669067,0
+357,1193.64,1196.98,spk_1,neutral,Remember that we got last week ,remember got last week,0,POSITIVE,0.8667672276496887,0
+358,1197.39,1198.3,spk_0,diary,I think you ,think,1,POSITIVE,0.9989099502563477,0
+359,1198.3,1200.33,spk_1,neutral,practiced it in our session Yeah ,practiced session yeah,0,POSITIVE,0.9968754053115845,0
+360,1200.94,1204.88,spk_0,agenda,I think I used the first one and not so much the second one ,think used first one much second one,0,NEGATIVE,0.9996930360794067,0
+361,1205.21,1205.71,spk_0,agenda,cat ,cat,0,POSITIVE,0.9852107167243958,0
+362,1206.39,1210.55,spk_1,neutral,But any moments that's great to circle that right So you ,moment great circle right,0,POSITIVE,0.9998069405555725,0
+363,1210.55,1214.46,spk_1,neutral,circle that diary card on that day Was that Did you try that ,circle diary card day wa try,1,NEGATIVE,0.9550392031669617,1
+364,1214.46,1215.95,spk_1,neutral,on Thursday or Friday ,thursday friday,1,POSITIVE,0.9016611576080322,0
+365,1217.64,1221.84,spk_0,neutral,I think I ended up crying that on Sunday actually ,think ended cry sunday actually,0,NEGATIVE,0.9978277087211609,0
+366,1224.44,1228.76,spk_0,agenda,So there was There was ah court and court fear are ,wa wa ah court court fear,1,NEGATIVE,0.9890487194061279,1
+367,1229.54,1235.8,spk_0,review,apprehension about what will happen in today's session if I ,apprehension happen today session,1,NEGATIVE,0.9957506656646729,1
+368,1235.8,1236.57,spk_0,review,do something ,something,1,POSITIVE,0.9991772770881653,0
+369,1237.24,1241.13,spk_0,review,and that made me sort off look inwards and look at what I'm ,made sort look inwards look,0,POSITIVE,0.9935593605041504,0
+370,1241.13,1243.1,spk_0,review,feeling right and truly ,feeling right truly,0,POSITIVE,0.9998692274093628,0
+371,1243.54,1246.18,spk_0,neutral,understand Be mindful about what I'm feeling ,understand mindful feeling,0,POSITIVE,0.9934693574905396,0
+372,1246.94,1247.64,spk_0,neutral,It was ,wa,0,POSITIVE,0.9947157502174377,0
+373,1248.97,1252.64,spk_1,diary,I have to put a big circle around that So I think we we've ,put big circle around think,0,NEGATIVE,0.9718359708786011,0
+374,1252.65,1255.55,spk_1,diary,we've you know I got something really important ,know got something really important,1,POSITIVE,0.9994179010391235,0
+375,1256.34,1258.26,spk_1,risk,that you are skillful ,skillful,1,POSITIVE,0.9998677968978882,0
+376,1259.54,1260.51,spk_1,risk,on Sunday ,sunday,0,POSITIVE,0.988714873790741,0
+377,1261.64,1263.55,spk_1,neutral,Yeah Um ,yeah um,0,POSITIVE,0.9875850677490234,0
+378,1264.24,1267.76,spk_1,agenda,yeah and it was tied to up the work we're doing together ,yeah wa tied work together,0,POSITIVE,0.9864257574081421,0
+379,1268.84,1271.61,spk_1,neutral,Um and that's kind of that So that's part of the pattern ,um kind part pattern,1,POSITIVE,0.5834475755691528,0
+380,1271.62,1273.93,spk_1,neutral,Let's let's understand that ,let let understand,1,POSITIVE,0.5494720935821533,0
+381,1274.64,1276.77,spk_1,neutral,And ah um ,ah um,0,NEGATIVE,0.962471604347229,0
+382,1277.44,1281.16,spk_1,neutral,and think about how next time the Thursday or Friday comes ,think next time thursday friday come,1,NEGATIVE,0.5331767797470093,1
+383,1281.16,1284.09,spk_1,neutral,around how to bring that skill on board So I have a question ,around bring skill board question,0,POSITIVE,0.9884752035140991,0
+384,1284.09,1289.56,spk_1,neutral,for you You got a cup Put that circle that you Did you think ,got cup put circle think,0,POSITIVE,0.9987394213676453,0
+385,1289.56,1292.05,spk_1,neutral,about using skills ,using skill,1,POSITIVE,0.9918713569641113,0
+386,1292.54,1296.11,spk_1,neutral,on Thursday or Friday Did you say Oh yeah This is a good ,thursday friday say oh yeah good,1,POSITIVE,0.9998295307159424,0
+387,1296.11,1297.76,spk_1,neutral,time for me to use skills You know ,time use skill know,0,NEGATIVE,0.9869220852851868,0
+388,1298.44,1302.33,spk_0,agenda,I actually did not like Thursday It was this the heart So ,actually like thursday wa heart,0,POSITIVE,0.8540399074554443,0
+389,1302.33,1303.54,spk_0,agenda,I'm like it's a hard ,like hard,0,NEGATIVE,0.999612033367157,0
+390,1304.24,1304.79,spk_0,neutral,and ,,1,POSITIVE,0.9708178639411926,0
+391,1305.64,1306.05,spk_0,neutral,uh ,uh,0,NEGATIVE,0.9962899684906006,0
+392,1307.54,1308.05,spk_0,neutral,if ,,1,POSITIVE,0.7390125393867493,0
+393,1308.44,1313.83,spk_0,agenda,you know you get carried away into the spiral so it's hard ,know get carried away spiral hard,0,NEGATIVE,0.9950624108314514,0
+394,1313.83,1315.29,spk_0,agenda,to think of something else ,think something else,1,POSITIVE,0.9910477995872498,0
+395,1315.84,1318.81,spk_0,review,Oh it's like Oh my God I'm doing this I'm doing that I'm ,oh like oh god,0,POSITIVE,0.98816978931427,0
+396,1318.81,1321.33,spk_0,review,doing that I'm doing that And it's all right right Right ,right right right,0,POSITIVE,0.9998327493667603,0
+397,1321.84,1322.45,spk_0,neutral,So ,,1,POSITIVE,0.9129677414894104,0
+398,1323.44,1323.86,spk_0,risk,yeah ,yeah,0,POSITIVE,0.9993269443511963,0
+399,1324.34,1325.76,spk_0,diary,it's ,,1,POSITIVE,0.9988478422164917,0
+400,1326.14,1331.37,spk_0,review,I'm not conscious off getting where I'm in my emotional just ,conscious getting emotional,0,POSITIVE,0.7729997038841248,0
+401,1331.37,1334.12,spk_0,review,get there And I'm like Yeah yeah ,get like yeah yeah,0,POSITIVE,0.9995686411857605,0
+402,1334.59,1337.14,spk_1,diary,So but But Sunday you you were ,sunday,0,POSITIVE,0.9974265694618225,0
+403,1337.94,1341.95,spk_1,neutral,some house now you And it was the proximity of of our ,house wa proximity,0,POSITIVE,0.9862042665481567,0
+404,1342.84,1344.95,spk_1,neutral,of our of us meeting today ,u meeting today,1,POSITIVE,0.9972983002662659,0
+405,1347.74,1348.45,spk_1,review,Um ,um,1,NEGATIVE,0.9149323105812073,1
+406,1350.44,1354.05,spk_1,review,So what can we do How do we How do we make use of this ,make use,0,NEGATIVE,0.9989400506019592,0
+407,1354.74,1355.55,spk_1,neutral,this week ,week,0,POSITIVE,0.9958517551422119,0
+408,1357.84,1358.55,spk_1,neutral,Um ,um,1,NEGATIVE,0.9149323105812073,1
+409,1361.94,1364.66,spk_1,neutral,What You know what does it have to be ,know doe,0,POSITIVE,0.9986805319786072,0
+410,1365.74,1369.55,spk_1,neutral,You're meeting would be the next day for you to be aware of ,meeting would next day aware,0,POSITIVE,0.9947441816329956,0
+411,1369.86,1373.09,spk_1,neutral,You know that you're gonna be asked about Did you use skills ,know gonna asked use skill,0,NEGATIVE,0.7511026263237,0
+412,1373.09,1374.16,spk_1,neutral,And you know ,know,1,POSITIVE,0.9988580942153931,0
+413,1374.84,1378.47,spk_1,review,what's the freak Once a week It wasn't enough this week ,freak week enough week,0,NEGATIVE,0.9943066239356995,0
+414,1378.48,1380.01,spk_1,review,right for you to remember ,right remember,0,POSITIVE,0.9998757839202881,0
+415,1381.04,1381.57,spk_1,neutral,Um ,um,1,NEGATIVE,0.9149323105812073,1
+416,1382.34,1385.41,spk_1,risk,I want to be practical about this What if you knew you were ,want practical knew,1,NEGATIVE,0.9910996556282043,1
+417,1385.63,1386.85,spk_1,risk,You know what a four ,know four,1,POSITIVE,0.9977543950080872,0
+418,1387.44,1388.95,spk_1,review,Thursday and you knew ,thursday knew,1,POSITIVE,0.9957935810089111,0
+419,1390.44,1395.55,spk_1,neutral,How about this this week Let's get some success under about ,week let get success,0,POSITIVE,0.9293681383132935,0
+420,1396.04,1398.71,spk_1,neutral,If you know you're gonna text me ,know gonna text,0,POSITIVE,0.5394409894943237,0
+421,1400.04,1404.82,spk_1,diary,every day I'll send you text back the next day and you just ,every day send text back next day,0,POSITIVE,0.9869988560676575,0
+422,1404.82,1405.55,spk_1,diary,say ,say,1,POSITIVE,0.9529455304145813,0
+423,1406.64,1407.45,spk_1,risk,real quick ,real quick,1,POSITIVE,0.9997568726539612,0
+424,1409.34,1410.12,spk_1,agenda,Here's ,,1,POSITIVE,0.9950071573257446,0
+425,1410.94,1411.86,spk_1,agenda,you know um ,know um,1,POSITIVE,0.9421359300613403,0
+426,1415.94,1419.45,spk_1,agenda,I used to tell you tell me what skills you used ,used tell tell skill used,0,POSITIVE,0.807496190071106,0
+427,1419.84,1421.26,spk_1,agenda,Like this is really about ,like really,0,POSITIVE,0.9991312623023987,0
+428,1422.94,1425.95,spk_1,neutral,you You Soon as you brought skills on board ,soon brought skill board,1,POSITIVE,0.9994763731956482,0
+429,1427.04,1428.78,spk_1,neutral,the outcome was different ,outcome wa different,0,POSITIVE,0.9837946891784668,0
+430,1429.54,1434.06,spk_1,neutral,And and um and you use the scale we worked on like which is ,um use scale worked like,0,POSITIVE,0.8151754140853882,0
+431,1434.29,1437.16,spk_1,neutral,but that's exactly what we're shooting for ,exactly shooting,0,POSITIVE,0.9996304512023926,0
+432,1437.54,1439.55,spk_1,neutral,That's what we're gonna bottle and ,gonna bottle,1,POSITIVE,0.9982622265815735,0
+433,1440.04,1445.33,spk_1,risk,do more off setting He done this just in idea You tell me if ,setting done idea tell,1,NEGATIVE,0.9974574446678162,1
+434,1445.33,1446.48,spk_1,risk,you've got a different one Er ,got different one er,0,POSITIVE,0.9737423062324524,0
+435,1446.94,1447.95,spk_1,review,text me ,text,0,POSITIVE,0.6544954776763916,0
+436,1448.74,1449.4,spk_1,review,um ,um,1,NEGATIVE,0.9149323105812073,1
+437,1455.54,1458.25,spk_1,neutral,text me um every day ,text um every day,0,NEGATIVE,0.8796148300170898,0
+438,1459.44,1463.07,spk_1,risk,and just say I used to feel all right I didn't And then ,say used feel right,0,POSITIVE,0.9766843318939209,0
+439,1463.38,1466.75,spk_1,risk,we'll that'll be something for us to talk about say today ,something u talk say today,1,POSITIVE,0.9996053576469421,0
+440,1466.76,1470.11,spk_1,risk,You know what skill used to having to be accountable made a ,know skill used accountable made,0,POSITIVE,0.9620427489280701,0
+441,1470.11,1473.08,spk_1,risk,difference Having whatever we want Just that we're gonna ,difference whatever want gonna,1,POSITIVE,0.9796022176742554,0
+442,1473.08,1476.66,spk_1,risk,talk about it made a difference So let's try What do you ,talk made difference let try,0,POSITIVE,0.8938012719154358,0
+443,1476.66,1479.73,spk_1,risk,think Just text me and then I'll text you back Great Thanks ,think text text back great thanks,0,POSITIVE,0.999560534954071,0
+444,1479.73,1480.85,spk_1,risk,for letting me know ,letting know,1,POSITIVE,0.9907640218734741,0
+445,1481.24,1483.76,spk_1,agenda,so that you know we're in a conversation about it ,know conversation,0,POSITIVE,0.988635778427124,0
+446,1485.44,1489.22,spk_0,neutral,Sure I text you if I used any skill that they're off ,sure text used skill,0,NEGATIVE,0.9966895580291748,0
+447,1489.23,1492.09,spk_1,neutral,usually is Text me and tell me that you used the skill ,usually text tell used skill,0,NEGATIVE,0.7883179783821106,0
+448,1492.37,1492.95,spk_0,neutral,Okay ,okay,1,POSITIVE,0.9997709393501282,0
+449,1493.44,1495.26,spk_1,neutral,you know and then ,know,1,POSITIVE,0.9624232649803162,0
+450,1496.74,1497.85,spk_1,diary,there's more to it ,,1,POSITIVE,0.956987202167511,0
+451,1498.34,1502.62,spk_1,diary,So what we really want and it is when you're in that moment ,really want moment,1,POSITIVE,0.9995438456535339,0
+452,1502.62,1505.68,spk_1,diary,you're using skills And if it's not working ,using skill working,0,POSITIVE,0.969002366065979,0
+453,1506.14,1509.98,spk_1,diary,you know where you're texting may that it's not working And ,know texting may working,0,NEGATIVE,0.999756395816803,0
+454,1509.98,1512.29,spk_1,diary,then if we have to be getting a call so ,getting call,0,NEGATIVE,0.9978647828102112,0
+455,1512.84,1515.14,spk_1,risk,we can figure out what's working and what's not you know ,figure working know,0,NEGATIVE,0.997546374797821,0
+456,1515.14,1516.06,spk_1,risk,right in that moment ,right moment,0,POSITIVE,0.999825656414032,0
+457,1517.14,1518.86,spk_1,neutral,And but it ,,1,NEGATIVE,0.8378779888153076,1
+458,1519.34,1522.55,spk_1,neutral,You don't even need to do that Sunday to be successful ,even need sunday successful,0,NEGATIVE,0.9046233892440796,0
+459,1523.24,1528.01,spk_1,neutral,So um let's let's see how successful you are just being ,um let let see successful,1,POSITIVE,0.9994981288909912,0
+460,1528.01,1531.21,spk_1,neutral,mindful of having to communicate with me And if I don't get ,mindful communicate get,1,POSITIVE,0.787679135799408,0
+461,1531.21,1532.16,spk_1,neutral,a text from you ,text,0,POSITIVE,0.9950299263000488,0
+462,1532.84,1534.66,spk_1,neutral,I'm going to test you I mean ,going test mean,0,POSITIVE,0.639331042766571,0
+463,1535.14,1537.56,spk_1,neutral,I'm expecting and so we should probably pick a time Let's ,expecting probably pick time let,1,NEGATIVE,0.9979523420333862,1
+464,1537.56,1540.26,spk_1,neutral,say 10 AM you know ,say 10 know,0,POSITIVE,0.5794810056686401,0
+465,1540.64,1544.38,spk_1,neutral,from the day before So if you're sleeping still like I'm not ,day sleeping still like,0,NEGATIVE,0.9971729516983032,0
+466,1544.39,1546.83,spk_1,neutral,pounding you But I didn't hear a text from you Then I'll ,pounding hear text,0,NEGATIVE,0.9927527904510498,0
+467,1546.83,1547.76,spk_1,neutral,consider toe ,consider toe,1,POSITIVE,0.7833550572395325,0
+468,1548.14,1550.88,spk_1,neutral,You know something is wrong And so ,know something wrong,0,NEGATIVE,0.9973074197769165,0
+469,1551.44,1555.7,spk_1,neutral,I'll track you down you know and uh text me by 10 AM or I'll ,track know uh text 10,0,NEGATIVE,0.5988847613334656,0
+470,1555.7,1558.89,spk_1,neutral,assume something's wrong And then that way we're talking ,assume something wrong way talking,0,NEGATIVE,0.9977626800537109,0
+471,1558.89,1559.66,spk_1,neutral,just about ,,1,POSITIVE,0.9970704317092896,0
+472,1560.44,1563.49,spk_1,risk,Did you use skills day before And it's you know it's not ,use skill day know,0,NEGATIVE,0.9990323781967163,0
+473,1563.49,1566.39,spk_1,risk,about the Texas about what it does for you the day before ,texas doe day,0,POSITIVE,0.9822116494178772,0
+474,1566.4,1569.51,spk_1,risk,right Just like seeing me today had a big impact on your ,right like seeing today big impact,0,POSITIVE,0.999804675579071,0
+475,1569.51,1570.05,spk_1,risk,Sunday ,sunday,0,POSITIVE,0.9849997758865356,0
+476,1572.54,1576.72,spk_0,neutral,I think that will work So I have a question because last ,think work question last,0,POSITIVE,0.991241455078125,0
+477,1576.72,1581.35,spk_0,neutral,time we did practice all those skills especially the 21 ,time practice skill especially 21,0,NEGATIVE,0.9574440717697144,0
+478,1581.74,1583.12,spk_0,neutral,Do that You mentioned ,mentioned,0,POSITIVE,0.9735802412033081,0
+479,1588.14,1592.04,spk_0,neutral,Who could you tell me how not get carried away and remember ,could tell get carried away remember,0,POSITIVE,0.9908360242843628,0
+480,1592.04,1593.35,spk_0,neutral,to use that because ,use,1,NEGATIVE,0.5264491438865662,1
+481,1593.74,1597.78,spk_0,neutral,it's like I'm in like a tunnel vision where I'm not able to ,like like tunnel vision able,0,NEGATIVE,0.999768078327179,0
+482,1597.92,1599.11,spk_0,neutral,think of anything else ,think anything else,1,NEGATIVE,0.9906615614891052,1
+483,1599.11,1604.95,spk_1,agenda,Tria Yeah So we did one thing Which is more Yeah I think Um ,tria yeah one thing yeah think um,0,POSITIVE,0.9800452589988708,0
+484,1605.74,1606.77,spk_1,risk,what is it ,,1,NEGATIVE,0.9800870418548584,1
+485,1607.64,1610.86,spk_1,neutral,Because it was like I did nothing right You were there You ,wa like nothing right,0,NEGATIVE,0.9996032118797302,0
+486,1610.86,1612.95,spk_1,neutral,did it So you did it Sunday ,sunday,0,POSITIVE,0.8964507579803467,0
+487,1613.74,1614.81,spk_1,risk,So ,,1,POSITIVE,0.9129677414894104,0
+488,1615.94,1618.59,spk_1,neutral,I think it's a great question that you're asking is how can ,think great question asking,0,POSITIVE,0.9996016621589661,0
+489,1618.59,1619.85,spk_1,neutral,you be aware ,aware,0,POSITIVE,0.9982342720031738,0
+490,1620.54,1621.17,spk_1,risk,Um ,um,1,NEGATIVE,0.9149323105812073,1
+491,1621.64,1622.76,spk_1,diary,off ,,1,NEGATIVE,0.9975277781486511,1
+492,1624.44,1627.27,spk_1,risk,of the upper that you can use skills like how can you be ,upper use skill like,0,POSITIVE,0.9966098666191101,0
+493,1627.27,1628.81,spk_1,risk,aware that you can your skills ,aware skill,0,POSITIVE,0.9997162222862244,0
+494,1629.24,1633.18,spk_1,review,What was the moment in which you were aware on Sunday Like ,wa moment aware sunday like,0,POSITIVE,0.962302029132843,0
+495,1633.19,1635.85,spk_1,review,what was the moment which he said Oh yeah I can use skills ,wa moment said oh yeah use skill,0,POSITIVE,0.9943547248840332,0
+496,1637.54,1640.35,spk_0,agenda,So it was I think it was a little more ,wa think wa little,0,NEGATIVE,0.9911063313484192,0
+497,1641.34,1642.28,spk_0,review,the fact that ,fact,0,POSITIVE,0.9687392711639404,0
+498,1643.04,1647.13,spk_0,review,I was very consciously aware it was Sunday because because I ,wa consciously aware wa sunday,0,NEGATIVE,0.7059450149536133,0
+499,1647.13,1650.19,spk_0,review,was I took a pack of the week later and I heard enjoy it on ,wa took pack week later heard enjoy,1,POSITIVE,0.999314546585083,0
+500,1650.19,1654.2,spk_0,review,the weekend So something my Not just my back of my mind but ,weekend something back mind,1,NEGATIVE,0.5624681115150452,1
+501,1654.2,1656.86,spk_0,review,in the front of my mind I was very aware it was a Sunday ,front mind wa aware wa sunday,0,POSITIVE,0.990250825881958,0
+502,1656.87,1659.45,spk_1,neutral,What was it you were aware from the time you woke up ,wa aware time woke,0,NEGATIVE,0.8847880363464355,0
+503,1660.34,1664.18,spk_0,review,No more like after that I had gone out and spend time with ,like gone spend time,0,NEGATIVE,0.8822363018989563,0
+504,1664.18,1666.26,spk_0,review,friends and everyone I was like ,friend everyone wa like,0,POSITIVE,0.9997606873512268,0
+505,1668.24,1672.71,spk_0,neutral,Yeah I I enjoyed my weekend is how it started right Total ,yeah enjoyed weekend started right total,0,POSITIVE,0.9998520612716675,0
+506,1672.71,1676.79,spk_0,neutral,very friend off my mind that the weekend is over and when we ,friend mind weekend,0,POSITIVE,0.9971440434455872,0
+507,1676.79,1680.88,spk_0,neutral,can do is older means what comes next Monday Yeah and ,older mean come next monday yeah,0,NEGATIVE,0.984919548034668,0
+508,1681.34,1685.14,spk_0,risk,in general I have ah little bit of apprehension apart ,general ah little bit apprehension apart,0,NEGATIVE,0.9868005514144897,0
+509,1685.14,1691.03,spk_0,risk,therapy and which is why all of those thoughts came together ,therapy thought came together,0,POSITIVE,0.9541833996772766,0
+510,1691.03,1693.58,spk_0,risk,And I'm like Holy crap Double raise Monday ,like holy crap double raise monday,0,NEGATIVE,0.9989727735519409,0
+511,1694.44,1694.88,spk_0,diary,and ,,1,POSITIVE,0.9708178639411926,0
+512,1696.84,1700.45,spk_0,review,and I will have to give you like a virgin or diarrhea card ,give like virgin diarrhea card,1,NEGATIVE,0.9335945844650269,1
+513,1700.45,1703.38,spk_0,review,tomorrow And then I also remember that I haven't filled it ,tomorrow also remember filled,1,NEGATIVE,0.9986294507980347,1
+514,1703.38,1705.76,spk_0,review,And I just thought about things And ,thought thing,0,POSITIVE,0.9087632298469543,0
+515,1707.04,1710.66,spk_0,review,but that made me think tomorrow I had to talk to the red ,made think tomorrow talk red,0,NEGATIVE,0.9866195917129517,0
+516,1711.04,1713.5,spk_0,neutral,and I'm going to have to tell him ,going tell,1,NEGATIVE,0.9882878661155701,1
+517,1714.34,1716.95,spk_0,neutral,that on Thursday and Friday I did something stupid ,thursday friday something stupid,1,NEGATIVE,0.9996782541275024,1
+518,1717.74,1721.99,spk_0,review,And and the the get it was driving me to do something stupid ,get wa driving something stupid,0,NEGATIVE,0.9996694326400757,0
+519,1722.0,1722.68,spk_0,review,I was like ,wa like,0,POSITIVE,0.9972336888313293,0
+520,1723.94,1724.74,spk_0,risk,No no no ,,1,NEGATIVE,0.9309722185134888,1
+521,1725.44,1728.2,spk_0,neutral,What are you feeling like now or are you feeling right now ,feeling like feeling right,0,POSITIVE,0.9983807802200317,0
+522,1728.21,1729.08,spk_0,neutral,Yeah right ,yeah right,0,POSITIVE,0.9997485280036926,0
+523,1733.24,1734.88,spk_0,neutral,That is how I was able to ,wa able,0,POSITIVE,0.9998015761375427,0
+524,1735.64,1737.69,spk_0,neutral,be a little bit more mindful and ,little bit mindful,1,POSITIVE,0.9915077686309814,0
+525,1738.44,1740.41,spk_0,neutral,stop myself But honestly ,stop honestly,1,POSITIVE,0.9883130192756653,0
+526,1741.34,1744.95,spk_0,review,this pill this came into my head The idea just came into my ,pill came head idea came,1,NEGATIVE,0.9990454316139221,1
+527,1744.95,1749.6,spk_0,review,head because I had a second to consider What Where I was in ,head second consider wa,1,NEGATIVE,0.9926609992980957,1
+528,1749.6,1752.58,spk_0,review,the present which is some days over I have a meeting ,present day meeting,1,NEGATIVE,0.861413836479187,1
+529,1752.58,1755.71,spk_0,review,tomorrow on Thursday and Friday I was not conscious of the ,tomorrow thursday friday wa conscious,1,NEGATIVE,0.8614593148231506,1
+530,1755.95,1757.48,spk_0,review,nose Just like what the hell ,nose like hell,0,NEGATIVE,0.8414402604103088,0
+531,1758.33,1761.05,spk_1,agenda,hole that I will be right back I just ,hole right back,0,NEGATIVE,0.9990056157112122,0
+532,1761.14,1763.17,spk_1,neutral,got something going on in my house I'll be right ,got something going house right,0,POSITIVE,0.9997708201408386,0
+533,1763.17,1763.66,spk_0,neutral,back ,back,1,POSITIVE,0.9845151901245117,0
+534,1763.94,1764.35,spk_0,agenda,Okay ,okay,1,POSITIVE,0.9997709393501282,0
+535,1779.04,1784.8,spk_1,review,Hi Sorry So ,hi sorry,0,NEGATIVE,0.996342122554779,0
+536,1785.84,1787.37,spk_1,neutral,it sounds like you're mindful ,sound like mindful,1,POSITIVE,0.9995695948600769,0
+537,1787.84,1791.59,spk_1,diary,Yeah Other things were going on but circle that when your ,yeah thing going circle,0,NEGATIVE,0.6890988945960999,0
+538,1791.59,1793.45,spk_1,diary,diary card that you used ,diary card used,1,NEGATIVE,0.9658113718032837,1
+539,1793.94,1798.6,spk_1,neutral,mindfulness So you use the emotion regulation skill of ,mindfulness use emotion regulation skill,1,POSITIVE,0.9166608452796936,0
+540,1798.6,1800.26,spk_1,neutral,mindfulness to current emotional But ,mindfulness current emotional,0,POSITIVE,0.9965141415596008,0
+541,1800.84,1803.66,spk_1,review,I think this you were aware of ,think aware,1,POSITIVE,0.9973490238189697,0
+542,1804.04,1808.2,spk_1,review,what day it waas the meaning of that to you The importance ,day waas meaning importance,0,POSITIVE,0.8836743235588074,0
+543,1808.2,1809.11,spk_1,review,of that to you ,,1,POSITIVE,0.9995895028114319,0
+544,1809.74,1810.38,spk_1,neutral,Um ,um,1,NEGATIVE,0.9149323105812073,1
+545,1812.74,1813.66,spk_1,neutral,and ,,1,POSITIVE,0.9708178639411926,0
+546,1818.94,1820.26,spk_1,risk,we um ,um,1,POSITIVE,0.9546357989311218,0
+547,1824.64,1828.28,spk_1,neutral,we talked about doing mindfulness every day I think we ,talked mindfulness every day think,1,POSITIVE,0.9923993945121765,0
+548,1828.28,1831.75,spk_1,neutral,probably lost the threat on making like being focusing on ,probably lost threat making like focusing,0,NEGATIVE,0.9997135996818542,0
+549,1831.75,1836.05,spk_1,neutral,that on Are you doing like actual mindful practice every day ,like actual mindful practice every day,0,POSITIVE,0.9847618341445923,0
+550,1837.04,1837.67,spk_1,neutral,And ,,1,POSITIVE,0.9708178639411926,0
+551,1838.14,1844.45,spk_1,agenda,um so yeah the proximity of the the the meeting with me Um I ,um yeah proximity meeting um,0,POSITIVE,0.9907872080802917,0
+552,1844.46,1845.16,spk_1,agenda,got you ,got,0,POSITIVE,0.9997872710227966,0
+553,1845.54,1846.28,spk_1,review,focused ,focused,1,POSITIVE,0.9997085928916931,0
+554,1847.34,1851.97,spk_1,review,Um we needed to be proactive to come from from you The text ,um needed proactive come text,0,NEGATIVE,0.9966074228286743,0
+555,1851.98,1854.35,spk_1,review,Texas Okay Let's have a successful week ,texas okay let successful week,0,POSITIVE,0.9998148083686829,0
+556,1855.04,1859.55,spk_1,risk,But how to have a more Have it coming from you if you if ,coming,1,NEGATIVE,0.9929580688476562,1
+557,1859.55,1863.43,spk_1,risk,you're if you start your day mindfully you know Are you more ,start day mindfully know,0,POSITIVE,0.9988253712654114,0
+558,1863.43,1864.45,spk_1,risk,likely Teo ,likely teo,1,POSITIVE,0.9941827654838562,0
+559,1865.14,1865.94,spk_1,neutral,Teo ,teo,1,POSITIVE,0.9875088334083557,0
+560,1867.84,1873.45,spk_1,review,to be beat when the moment comes Remember to use skills ,beat moment come remember use skill,0,POSITIVE,0.9926875829696655,0
+561,1874.74,1879.79,spk_1,neutral,Um so my union you asked me How can I be more aware Like ,um union asked aware like,0,NEGATIVE,0.5819215178489685,0
+562,1879.8,1882.05,spk_1,neutral,mindfulness is the answer work for you Sunday ,mindfulness answer work sunday,0,POSITIVE,0.9975814819335938,0
+563,1882.54,1885.7,spk_1,neutral,How about we go back to trying this week ,go back trying week,0,NEGATIVE,0.9734286665916443,0
+564,1887.64,1890.55,spk_1,diary,to start every day like ,start every day like,0,POSITIVE,0.9949224591255188,0
+565,1891.34,1893.16,spk_1,neutral,we'll have to go back to Well ,go back well,1,NEGATIVE,0.992091178894043,1
+566,1893.84,1894.55,spk_1,neutral,um ,um,1,NEGATIVE,0.9149323105812073,1
+567,1894.94,1897.27,spk_1,neutral,you know how we lost this threat Because that's on both of ,know lost threat,0,NEGATIVE,0.9964568018913269,0
+568,1897.27,1900.29,spk_1,neutral,us where we weigh weren't we Weren't we on keeping track of ,u weigh keeping track,0,NEGATIVE,0.9769267439842224,0
+569,1900.29,1904.13,spk_1,neutral,this that five minutes in the morning of just mindful ,five minute morning mindful,0,NEGATIVE,0.9835383296012878,0
+570,1904.13,1904.66,spk_1,neutral,breathing ,breathing,1,POSITIVE,0.9993565678596497,0
+571,1905.04,1905.85,spk_1,diary,doing that ,,1,POSITIVE,0.9980111122131348,0
+572,1906.64,1907.2,spk_1,neutral,If I'm ,,1,POSITIVE,0.9899641871452332,0
+573,1907.84,1910.33,spk_1,neutral,and you actually said you liked it you know that it actually ,actually said liked know actually,0,POSITIVE,0.999390721321106,0
+574,1910.33,1913.2,spk_1,neutral,works for some people They come back and say That sucked It ,work people come back say sucked,0,NEGATIVE,0.9979706406593323,0
+575,1913.2,1915.55,spk_1,neutral,was really hard I'm doing it wrong But you said now you felt ,wa really hard wrong said felt,0,NEGATIVE,0.7262444496154785,0
+576,1915.55,1919.59,spk_1,neutral,more relaxed and it was kind of grounding so that's great ,relaxed wa kind grounding great,0,POSITIVE,0.9998499155044556,0
+577,1919.6,1922.59,spk_1,neutral,because it's that it's immediately reinforcing Um I think ,immediately reinforcing um think,1,POSITIVE,0.9992895126342773,0
+578,1922.59,1923.35,spk_1,neutral,we've ended up ,ended,0,POSITIVE,0.9985571503639221,0
+579,1923.84,1927.37,spk_1,neutral,talking about other things but having a little you know ,talking thing little know,0,POSITIVE,0.9938709735870361,0
+580,1927.51,1931.21,spk_1,neutral,success under your belt So that worked is really helpful is ,success belt worked really helpful,1,POSITIVE,0.9962244033813477,0
+581,1931.21,1934.9,spk_1,neutral,it Show what worked the mindfulness mindfulness to Karen ,show worked mindfulness mindfulness karen,1,POSITIVE,0.9938190579414368,0
+582,1934.9,1937.45,spk_1,neutral,Emotion Let's do more mindfulness So ,emotion let mindfulness,1,NEGATIVE,0.9823529124259949,1
+583,1938.34,1941.35,spk_1,neutral,what do you think Can you Can you commit to that ,think commit,1,POSITIVE,0.9399546384811401,0
+584,1942.74,1944.62,spk_1,neutral,five minutes every morning ,five minute every morning,0,POSITIVE,0.9408138990402222,0
+585,1944.81,1949.92,spk_0,neutral,Yeah I can I can I think I even did it on Tuesday Uh you ,yeah think even tuesday uh,0,NEGATIVE,0.9845726490020752,0
+586,1949.92,1953.68,spk_0,neutral,know after the session of the session proximity ,know session session proximity,1,POSITIVE,0.7776532769203186,0
+587,1954.64,1956.76,spk_0,neutral,it's It's like us ,like u,0,POSITIVE,0.9998310804367065,0
+588,1958.14,1962.3,spk_1,risk,Yeah well yeah well the X will help So you're going to say I ,yeah well yeah well x help going say,1,POSITIVE,0.9990719556808472,0
+589,1962.31,1965.0,spk_1,risk,didn't You know you're I did skills because now you you got ,know skill got,0,POSITIVE,0.9991632699966431,0
+590,1965.0,1967.79,spk_1,risk,it in the bag You did a every morning Mindfulness ,bag every morning mindfulness,1,NEGATIVE,0.5072667002677917,1
+591,1968.64,1972.75,spk_0,risk,Yeah yeah yeah that's that's how we're slept actually on ,yeah yeah yeah slept actually,0,POSITIVE,0.9846463799476624,0
+592,1972.92,1974.39,spk_0,risk,Tuesday and Wednesday ,tuesday wednesday,0,POSITIVE,0.8729844689369202,0
+593,1974.84,1977.62,spk_0,agenda,when I say I don't remember But Tuesday I definitely did it ,say remember tuesday definitely,1,POSITIVE,0.999630331993103,0
+594,1977.62,1978.08,spk_0,agenda,And ,,1,POSITIVE,0.9708178639411926,0
+595,1978.54,1979.72,spk_0,agenda,um ,um,1,NEGATIVE,0.9149323105812073,1
+596,1981.14,1985.0,spk_0,diary,once I go down those spirals don't feel like doing anything ,go spiral feel like anything,0,NEGATIVE,0.9975340366363525,0
+597,1985.0,1987.69,spk_0,diary,That's why I think I stopped getting too ,think stopped getting,0,NEGATIVE,0.9991616010665894,0
+598,1988.34,1988.8,spk_1,diary,Yeah ,yeah,0,POSITIVE,0.9993269443511963,0
+599,1990.54,1993.45,spk_1,neutral,Um well let's think about that then So I was gonna say Well ,um well let think wa gonna say well,1,POSITIVE,0.9943581223487854,0
+600,1993.45,1996.62,spk_1,neutral,what can go wrong with what's going to get in the way It is ,go wrong going get way,1,NEGATIVE,0.9996050000190735,1
+601,1996.62,2000.07,spk_1,neutral,the first thing you do in the morning but you could still ,first thing morning could still,0,NEGATIVE,0.7772061824798584,0
+602,2000.08,2003.17,spk_1,neutral,like being a spiral that starts the day before ,like spiral start day,0,NEGATIVE,0.9952409267425537,0
+603,2003.94,2007.58,spk_1,neutral,Now you know you're gonna have text me a 10 in the morning ,know gonna text 10 morning,0,NEGATIVE,0.9683670997619629,0
+604,2007.88,2011.22,spk_1,neutral,and then I'm gonna follow up with you See what happened if ,gonna follow see happened,1,POSITIVE,0.7783956527709961,0
+605,2011.22,2011.85,spk_1,neutral,you didn't ,,1,NEGATIVE,0.9512965083122253,1
+606,2012.24,2013.85,spk_1,agenda,Um but ah ,um ah,0,NEGATIVE,0.9780158400535583,0
+607,2014.24,2016.77,spk_1,review,what else I guess so So ,else guess,0,NEGATIVE,0.9924457669258118,0
+608,2019.54,2020.16,spk_1,diary,from ,,1,POSITIVE,0.7563391327857971,0
+609,2023.24,2026.69,spk_1,neutral,what What else can get in the way I think it's having the ,else get way think,1,NEGATIVE,0.9964281916618347,1
+610,2026.69,2029.45,spk_1,neutral,things that happen in between I think we're ,thing happen think,1,POSITIVE,0.8766716718673706,0
+611,2029.84,2032.09,spk_1,review,we've got some plans in place to dress them ,got plan place dress,1,POSITIVE,0.9819690585136414,0
+612,2033.04,2033.67,spk_1,review,Um ,um,1,NEGATIVE,0.9149323105812073,1
+613,2034.14,2036.71,spk_1,neutral,but any other thoughts and the things that are gonna lead to ,thought thing gonna lead,1,NEGATIVE,0.9772770404815674,1
+614,2036.71,2040.95,spk_1,neutral,you not remembering to do mindfulness in the morning You're ,remembering mindfulness morning,1,NEGATIVE,0.9353032112121582,1
+615,2040.95,2042.5,spk_1,neutral,not doing my implements in the morning ,implement morning,0,NEGATIVE,0.9951992630958557,0
+616,2047.64,2051.35,spk_0,risk,if I had a bad night previously ,bad night previously,0,NEGATIVE,0.9948973059654236,0
+617,2051.74,2057.59,spk_0,agenda,You know like when I go down the spirals I will just keep ,know like go spiral keep,0,POSITIVE,0.9988479614257812,0
+618,2057.6,2060.16,spk_0,agenda,doing Instagram or something to declare that ,instagram something declare,1,NEGATIVE,0.8825355172157288,1
+619,2062.44,2065.11,spk_0,risk,And I will wake up in the morning ,wake morning,0,POSITIVE,0.9966873526573181,0
+620,2065.94,2067.66,spk_0,review,either feeling like crap or ,either feeling like crap,0,NEGATIVE,0.99979168176651,0
+621,2068.44,2072.79,spk_0,neutral,uh beating like I'm late to some meeting I cannot get out ,uh beating like late meeting cannot get,0,NEGATIVE,0.998540997505188,0
+622,2072.79,2073.46,spk_0,neutral,off and ,,1,NEGATIVE,0.9960959553718567,1
+623,2073.84,2077.08,spk_0,agenda,and then I'm like Oh forget all this mindfulness stuff I ,like oh forget mindfulness stuff,0,NEGATIVE,0.9991363883018494,0
+624,2077.08,2081.41,spk_0,agenda,need to get on with my day right now because I've woken up ,need get day right woken,0,NEGATIVE,0.9907746911048889,0
+625,2081.41,2081.96,spk_0,agenda,later ,later,1,POSITIVE,0.9647393226623535,0
+626,2083.14,2087.39,spk_0,review,That's when I can see that I will probably forget it had ,see probably forget,0,NEGATIVE,0.99665367603302,0
+627,2087.39,2090.92,spk_0,review,happened to me a couple of times Like with other things too ,happened couple time like thing,0,NEGATIVE,0.981795608997345,0
+628,2090.92,2096.79,spk_0,review,right like that about I mean I wake up late because I was ,right like mean wake late wa,0,NEGATIVE,0.9849498271942139,0
+629,2096.79,2100.32,spk_0,review,not good with my time last night And I forget something that ,good time last night forget something,0,NEGATIVE,0.9997454285621643,0
+630,2100.32,2101.58,spk_0,review,I was supposed to do in the morning ,wa supposed morning,0,NEGATIVE,0.7759812474250793,0
+631,2104.54,2105.7,spk_1,neutral,Does it help you ,doe help,0,POSITIVE,0.9993085861206055,0
+632,2106.54,2108.78,spk_1,agenda,toe have like reminders you know ,toe like reminder know,0,POSITIVE,0.9667659401893616,0
+633,2109.44,2109.78,spk_1,neutral,Yeah ,yeah,0,POSITIVE,0.9993269443511963,0
+634,2111.94,2115.06,spk_1,agenda,He's happened you know on your phone You know like a ,happened know phone know like,0,NEGATIVE,0.9574709534645081,0
+635,2115.07,2119.58,spk_1,agenda,reminder that goes off at 9 30 and says Have you down ,reminder go 9 30 say,0,NEGATIVE,0.9981410503387451,0
+636,2119.58,2121.55,spk_1,agenda,mindfulness you five minutes of mindfulness ,mindfulness five minute mindfulness,1,NEGATIVE,0.6303014755249023,1
+637,2124.64,2129.52,spk_0,neutral,It helps more than it hurts for sure Uh we should reveal ,help hurt sure uh reveal,1,POSITIVE,0.9943394064903259,0
+638,2129.52,2131.25,spk_0,neutral,this next time again but ,next time,0,NEGATIVE,0.9431872963905334,0
+639,2132.94,2138.07,spk_0,neutral,one ready I have is my mind starts blocking their reminder ,one ready mind start blocking reminder,0,NEGATIVE,0.998658299446106,0
+640,2138.45,2138.79,spk_0,neutral,about the ,,1,POSITIVE,0.990073561668396,0
+641,2138.79,2141.91,spk_1,neutral,reminder You'll just hit Snooze Yeah just But it helps more ,reminder hit snooze yeah help,0,POSITIVE,0.9953685998916626,0
+642,2141.91,2144.64,spk_1,neutral,than it hurts Is it worth just doing that now Putting a ,hurt worth putting,0,NEGATIVE,0.9858468174934387,0
+643,2144.64,2146.66,spk_1,neutral,reminder on your phone 9 30 ,reminder phone 9 30,0,NEGATIVE,0.5476396083831787,0
+644,2147.14,2149.25,spk_1,neutral,Did you do mindfulness Because we're gonna ,mindfulness gonna,1,NEGATIVE,0.793921947479248,1
+645,2149.84,2153.25,spk_1,diary,talking You know you're going to text me a 10 that um ,talking know going text 10 um,0,POSITIVE,0.9600271582603455,0
+646,2153.94,2157.31,spk_1,neutral,you actually could say that I did My um fullness and I was ,actually could say um fullness wa,1,POSITIVE,0.9867940545082092,0
+647,2157.31,2159.55,spk_1,neutral,killed I did a skill yesterday too ,killed skill yesterday,0,NEGATIVE,0.9599244594573975,0
+648,2160.23,2163.9,spk_0,diary,I think I think that will definitely help if I'm accountable ,think think definitely help accountable,1,POSITIVE,0.71603924036026,0
+649,2163.9,2168.66,spk_0,diary,to you Where and that will sort of you know shake me or call ,sort know shake call,0,NEGATIVE,0.9966806769371033,0
+650,2168.81,2170.05,spk_0,diary,reminder ,reminder,1,POSITIVE,0.9942394495010376,0
+651,2170.48,2174.11,spk_1,neutral,and then attend If I don't hear from you then I know to ,attend hear know,0,POSITIVE,0.9981381893157959,0
+652,2174.83,2176.11,spk_1,diary,you know find out what happened ,know find happened,1,NEGATIVE,0.7694622874259949,1
+653,2177.03,2177.34,spk_1,review,You know ,know,1,POSITIVE,0.9976168870925903,0
+654,2177.93,2179.65,spk_1,neutral,Did you Did you do it ,,1,POSITIVE,0.958069920539856,0
+655,2180.13,2182.73,spk_0,neutral,Yeah Should I do it now Okay Yeah Yeah ,yeah okay yeah yeah,0,POSITIVE,0.9867291450500488,0
+656,2185.03,2185.46,spk_1,agenda,Uh huh ,uh huh,0,NEGATIVE,0.9782950282096863,0
+657,2188.23,2189.61,spk_0,agenda,Okay Yeah ,okay yeah,0,POSITIVE,0.9993756413459778,0
+658,2193.43,2196.68,spk_1,review,Good Why I didn't ask you because we had to focus on those ,good ask focus,0,POSITIVE,0.9792044758796692,0
+659,2196.69,2199.4,spk_1,review,You know if folks in the diary card books on the cell phone ,know folk diary card book cell phone,1,NEGATIVE,0.9970797896385193,1
+660,2199.4,2202.41,spk_1,review,Was there something else I mean it does sound like you're ,wa something else mean doe sound like,0,NEGATIVE,0.9687541723251343,0
+661,2202.41,2204.62,spk_1,review,ready to talk about Was there something else you wanted to ,ready talk wa something else wanted,1,POSITIVE,0.9960252046585083,0
+662,2204.96,2208.25,spk_1,review,get into the agenda on everything We got some homework set ,get agenda everything got homework set,0,NEGATIVE,0.8725815415382385,0
+663,2208.25,2210.89,spk_1,review,which is daily mindfulness texts ,daily mindfulness text,0,POSITIVE,0.9950560331344604,0
+664,2211.33,2212.74,spk_1,neutral,Um was there something else ,um wa something else,0,NEGATIVE,0.9660932421684265,0
+665,2213.53,2215.04,spk_1,neutral,that you wanted to talk about today ,wanted talk today,1,POSITIVE,0.9995059967041016,0
+666,2218.43,2221.04,spk_0,agenda,Is my feeling off ,feeling,0,NEGATIVE,0.9992814660072327,0
+667,2222.13,2222.65,spk_0,neutral,uh ,uh,0,NEGATIVE,0.9962899684906006,0
+668,2226.23,2227.84,spk_0,neutral,is my feeling off ,feeling,0,NEGATIVE,0.9992814660072327,0
+669,2229.23,2233.06,spk_0,risk,worthlessness associated with everything else I am saying ,worthlessness associated everything else saying,0,NEGATIVE,0.9997687935829163,0
+670,2233.06,2233.56,spk_0,risk,Because ,,1,NEGATIVE,0.8893156051635742,1
+671,2234.13,2238.25,spk_0,diary,I feel like it's a circle I'm unable to get out off Yeah ,feel like circle unable get yeah,0,NEGATIVE,0.9981564879417419,0
+672,2238.47,2240.35,spk_0,diary,Hoping these things help but ,hoping thing help,1,NEGATIVE,0.958342969417572,1
+673,2240.93,2243.29,spk_0,diary,it's like because I feel worthless I don't feel like doing ,like feel worthless feel like,0,NEGATIVE,0.998955488204956,0
+674,2243.29,2246.81,spk_0,diary,anything because I don't feel worthless Yeah ,anything feel worthless yeah,0,POSITIVE,0.9764271974563599,0
+675,2247.43,2248.65,spk_1,neutral,well so ,well,1,POSITIVE,0.9993113279342651,0
+676,2249.03,2253.59,spk_1,neutral,you know we talked about this like worthlessness is not a ,know talked like worthlessness,0,NEGATIVE,0.9995008707046509,0
+677,2253.96,2254.84,spk_1,neutral,feeling ,feeling,0,POSITIVE,0.9933618307113647,0
+678,2255.53,2258.89,spk_1,risk,It's more more thought I am You know I'm why I'm worthless ,thought know worthless,1,NEGATIVE,0.9987514019012451,1
+679,2259.43,2262.84,spk_1,neutral,and we So where where it comes from is like we ,come like,0,NEGATIVE,0.8289998173713684,0
+680,2263.43,2268.68,spk_1,neutral,we kind of see that you know in the chain where that's the ,kind see know chain,1,POSITIVE,0.9887264370918274,0
+681,2268.68,2269.74,spk_1,neutral,thought you have ,thought,1,POSITIVE,0.9983715415000916,0
+682,2270.23,2273.79,spk_1,agenda,when response to feeling And that's I think maybe we need to ,response feeling think maybe need,0,NEGATIVE,0.9862399697303772,0
+683,2273.8,2275.54,spk_1,agenda,focus At what point ,focus point,1,POSITIVE,0.9945026636123657,0
+684,2276.23,2278.65,spk_1,neutral,did you feel like Did you have the thought ,feel like thought,0,POSITIVE,0.9744613766670227,0
+685,2279.33,2280.35,spk_1,risk,I'm worthless ,worthless,0,NEGATIVE,0.999799907207489,0
+686,2281.12,2281.87,spk_1,neutral,Was it ,wa,0,NEGATIVE,0.9377442598342896,0
+687,2282.52,2285.05,spk_1,neutral,You know in that You know let's go to let's talk about ,know know let go let talk,1,POSITIVE,0.9949955940246582,0
+688,2285.05,2285.79,spk_1,neutral,Friday night ,friday night,1,POSITIVE,0.9957818984985352,0
+689,2286.42,2288.74,spk_1,agenda,So you weren't You are getting stuff done ,getting stuff done,0,NEGATIVE,0.9915111660957336,0
+690,2289.32,2290.64,spk_1,neutral,You're feeling guilty ,feeling guilty,0,NEGATIVE,0.9942491054534912,0
+691,2291.92,2292.0,spk_1,neutral,Yeah ,yeah,0,POSITIVE,0.9993269443511963,0
+692,2292.62,2295.07,spk_1,agenda,Feeling embarrassed or shame Ashamed ,feeling embarrassed shame ashamed,0,NEGATIVE,0.9992430210113525,0
+693,2296.02,2296.83,spk_1,agenda,Sounds like ,sound like,0,POSITIVE,0.9824743866920471,0
+694,2297.32,2299.68,spk_0,neutral,Yeah like I told you right ,yeah like told right,0,POSITIVE,0.9996364116668701,0
+695,2300.82,2305.8,spk_0,neutral,The first time I fell that very strongly and I felt like I'm ,first time fell strongly felt like,0,NEGATIVE,0.9725679755210876,0
+696,2305.81,2309.16,spk_0,neutral,stupid or dumb Thursday when I was just reading something I ,stupid dumb thursday wa reading something,1,NEGATIVE,0.9996894598007202,1
+697,2309.16,2311.59,spk_0,neutral,think I was telling you about some Facebook update or ,think wa telling facebook update,1,NEGATIVE,0.9956568479537964,1
+698,2311.59,2313.72,spk_0,neutral,someone or some ,someone,1,NEGATIVE,0.735107421875,1
+699,2314.62,2317.33,spk_0,risk,I don't remember what the report on email update it Just put ,remember report email update put,1,NEGATIVE,0.9995194673538208,1
+700,2317.33,2320.7,spk_0,risk,the start in my head that look what everyone else did during ,start head look everyone else,0,POSITIVE,0.9518356919288635,0
+701,2320.7,2322.07,spk_0,risk,the week and look what you did ,week look,0,POSITIVE,0.9994338154792786,0
+702,2322.62,2324.44,spk_0,neutral,Yeah and that was like ,yeah wa like,0,POSITIVE,0.998796820640564,0
+703,2324.82,2325.87,spk_0,neutral,Oh shit ,oh shit,0,NEGATIVE,0.9902905821800232,0
+704,2326.72,2330.88,spk_0,review,And you know then everything describes together like a local ,know everything describes together like local,0,POSITIVE,0.9970762729644775,0
+705,2330.88,2336.26,spk_0,review,even seeking out help You are even you know trying supposed ,even seeking help even know trying supposed,1,NEGATIVE,0.9900081157684326,1
+706,2336.26,2339.48,spk_0,review,to be trying this and yet you're not being able to do ,trying yet able,0,NEGATIVE,0.9995124340057373,0
+707,2340.22,2343.24,spk_0,review,even You're not even able to follow up on the help people ,even even able follow help people,0,NEGATIVE,0.9992620348930359,0
+708,2343.24,2347.04,spk_0,review,are providing you And it's like all those things come ,providing like thing come,0,POSITIVE,0.9998075366020203,0
+709,2347.04,2350.03,spk_0,review,together And I'm like my little higher you know ,together like little higher know,0,POSITIVE,0.9997920393943787,0
+710,2350.72,2354.89,spk_0,neutral,shut myself and just go on the work So I'm not able to ,shut go work able,0,NEGATIVE,0.999586284160614,0
+711,2354.89,2359.52,spk_0,neutral,forget my feelings or repressed them I'm not able to even ,forget feeling repressed able even,0,NEGATIVE,0.999453604221344,0
+712,2359.52,2361.89,spk_0,neutral,use the help that I'm getting for the feeling that I'm ,use help getting feeling,0,NEGATIVE,0.9784665703773499,0
+713,2361.9,2366.6,spk_0,neutral,feeling So it just like feels like What the hell is wrong ,feeling like feel like hell wrong,0,NEGATIVE,0.9995597004890442,0
+714,2366.6,2370.54,spk_0,neutral,with me Maybe I'm not good enough And and that's how it ,maybe good enough,0,NEGATIVE,0.9991315007209778,0
+715,2370.61,2371.64,spk_0,neutral,starts Like ,start like,0,POSITIVE,0.9671270847320557,0
+716,2371.82,2374.89,spk_0,neutral,I'm useless and you know pulling be ,useless know pulling,0,NEGATIVE,0.9995741248130798,0
+717,2374.89,2379.12,spk_1,agenda,I think what you're describing the sequence of of thoughts ,think describing sequence thought,1,POSITIVE,0.9972237348556519,0
+718,2379.13,2382.63,spk_1,agenda,right And I want to get at Well where What are you What are ,right want get well,1,POSITIVE,0.9747040271759033,0
+719,2382.63,2383.94,spk_1,agenda,the emotions actually ,emotion actually,0,POSITIVE,0.9969196319580078,0
+720,2385.62,2388.14,spk_1,agenda,before Like when this happens ,like happens,0,NEGATIVE,0.7911216616630554,0
+721,2388.72,2392.03,spk_1,neutral,You What is this Whole thing starts Let's get back to the ,whole thing start let get back,0,NEGATIVE,0.9967972636222839,0
+722,2392.03,2395.59,spk_1,neutral,beginning of this chain of events You read something ,beginning chain event read something,1,POSITIVE,0.998120129108429,0
+723,2397.02,2399.36,spk_0,risk,on interstate That's what triggered it ,interstate triggered,0,POSITIVE,0.961298942565918,0
+724,2399.92,2402.61,spk_1,review,Okay well what was happening before you reading ,okay well wa happening reading,1,NEGATIVE,0.9875184893608093,1
+725,2403.11,2407.04,spk_1,diary,that Something What were you doing How are you feeling How ,something feeling,0,POSITIVE,0.6040605306625366,0
+726,2407.04,2407.52,spk_1,diary,is your ,,1,POSITIVE,0.9983515739440918,0
+727,2409.11,2409.73,spk_1,risk,day ,day,0,POSITIVE,0.9957056641578674,0
+728,2412.21,2415.02,spk_0,neutral,I mean I don't think it was in high spirits ,mean think wa high spirit,0,NEGATIVE,0.9918094277381897,0
+729,2415.81,2416.52,spk_0,neutral,Ah ,ah,0,POSITIVE,0.8808811902999878,0
+730,2417.21,2419.88,spk_0,neutral,I feel like I was just like responding to some email or ,feel like wa like responding email,0,NEGATIVE,0.9965992569923401,0
+731,2419.88,2422.46,spk_0,neutral,something While I heard Facebook opens I don't fully ,something heard facebook open fully,1,NEGATIVE,0.9981817007064819,1
+732,2422.46,2426.07,spk_0,neutral,remember where I saw that Yeah And I'm like Oh have we ,remember saw yeah like oh,0,POSITIVE,0.9993939399719238,0
+733,2426.08,2428.82,spk_0,neutral,respond to this email Because this end of important ,respond email end important,1,NEGATIVE,0.9924696087837219,1
+734,2429.21,2431.68,spk_0,diary,and I'm like holy shit like ,like holy shit like,0,NEGATIVE,0.8834492564201355,0
+735,2435.11,2437.52,spk_0,agenda,I I had like a sinking feeling in my heart ,like sinking feeling heart,0,POSITIVE,0.5270699262619019,0
+736,2438.31,2440.62,spk_0,neutral,Uh like what the hell ,uh like hell,1,NEGATIVE,0.9820263981819153,1
+737,2442.01,2445.5,spk_0,review,it's being like Thursday It's The week is almost over and ,like thursday week almost,0,NEGATIVE,0.999022364616394,0
+738,2446.51,2448.43,spk_0,diary,you have nothing to show for it ,nothing show,1,NEGATIVE,0.9971961975097656,1
+739,2448.91,2451.51,spk_0,neutral,Like bees That again Parks when I was my ,like bee park wa,0,POSITIVE,0.8917127847671509,0
+740,2451.52,2454.29,spk_1,risk,Yeah let's let's go over Let's go through the motions Right ,yeah let let go let go motion right,0,POSITIVE,0.995963454246521,0
+741,2454.29,2455.02,spk_1,risk,So we ,,1,POSITIVE,0.9785169959068298,0
+742,2455.41,2456.63,spk_1,agenda,just cause I think ,cause think,1,POSITIVE,0.9951533079147339,0
+743,2457.31,2458.23,spk_1,neutral,that'll help ,help,1,POSITIVE,0.9982863068580627,0
+744,2458.91,2463.5,spk_1,neutral,um again So do you remember the primary emotions ,um remember primary emotion,0,POSITIVE,0.6748594045639038,0
+745,2464.71,2466.44,spk_0,agenda,Can you tell me again I can Yeah ,tell yeah,0,POSITIVE,0.9960588216781616,0
+746,2466.62,2468.25,spk_1,diary,So Sadness ,sadness,0,NEGATIVE,0.9988073110580444,0
+747,2469.61,2470.18,spk_1,review,guilt ,guilt,0,NEGATIVE,0.9986465573310852,0
+748,2472.11,2472.82,spk_1,risk,shame ,shame,0,NEGATIVE,0.9997199177742004,0
+749,2474.31,2475.17,spk_1,review,fear ,fear,1,NEGATIVE,0.9980984330177307,1
+750,2476.51,2477.43,spk_1,review,discussed ,discussed,1,POSITIVE,0.9967568516731262,0
+751,2480.41,2481.13,spk_1,agenda,Love ,love,0,POSITIVE,0.9998735189437866,0
+752,2483.11,2483.74,spk_1,agenda,joy ,joy,0,POSITIVE,0.999873161315918,0
+753,2484.61,2485.16,spk_1,agenda,Anger ,anger,1,NEGATIVE,0.9993340373039246,1
+754,2487.71,2491.29,spk_1,neutral,So what Yeah What What do you think you were feeling ,yeah think feeling,0,POSITIVE,0.9080691337585449,0
+755,2492.01,2492.63,spk_1,review,on ,,1,POSITIVE,0.987031877040863,0
+756,2493.11,2496.38,spk_1,review,when you read that Then we know So the backdrop is you want ,read know backdrop want,1,POSITIVE,0.9972817897796631,0
+757,2496.38,2497.97,spk_1,review,It's productive as you wanted to be ,productive wanted,0,POSITIVE,0.9998575448989868,0
+758,2498.51,2500.73,spk_1,diary,You felt we know you felt guilty ,felt know felt guilty,0,NEGATIVE,0.9940893650054932,0
+759,2501.81,2505.25,spk_1,risk,Think sadness has kind of like When did you first start ,think sadness ha kind like first start,0,NEGATIVE,0.9885333776473999,0
+760,2505.25,2505.84,spk_1,risk,Feeling ,feeling,0,POSITIVE,0.9933618307113647,0
+761,2506.41,2509.82,spk_1,agenda,sad is a question Shame happened ,sad question shame happened,0,NEGATIVE,0.9996237754821777,0
+762,2510.51,2513.84,spk_1,diary,If you start to think about yeah I think was the questions ,start think yeah think wa question,0,NEGATIVE,0.9312838315963745,0
+763,2513.85,2515.11,spk_1,diary,we need to unpack that ,need unpack,1,NEGATIVE,0.9994121789932251,1
+764,2515.18,2521.81,spk_0,review,So I think I felt sad and I felt when I read on Just the ,think felt sad felt read,0,NEGATIVE,0.9974505305290222,0
+765,2521.81,2523.85,spk_0,review,thought crossed my mind report Have you done ,thought crossed mind report done,0,NEGATIVE,0.9851236939430237,0
+766,2524.3,2526.94,spk_0,neutral,And the first thought was Oh my God I'm tired ,first thought wa oh god tired,1,NEGATIVE,0.9996994733810425,1
+767,2528.0,2531.22,spk_0,agenda,And that side Ms gave away to shame and anger ,side gave away shame anger,1,NEGATIVE,0.9877598881721497,1
+768,2531.7,2534.46,spk_0,neutral,Uh just like few parts on the ,uh like part,0,POSITIVE,0.8370354175567627,0
+769,2534.5,2536.51,spk_1,neutral,few thoughts Tablet Yes Oh ,thought tablet yes oh,0,POSITIVE,0.9926573634147644,0
+770,2537.9,2539.42,spk_1,risk,so um ,um,1,NEGATIVE,0.9051224589347839,1
+771,2540.9,2542.61,spk_1,review,and that's a pattern we've seen ,pattern seen,1,POSITIVE,0.9772136211395264,0
+772,2544.0,2544.81,spk_1,neutral,So that ,,1,POSITIVE,0.9858476519584656,0
+773,2545.4,2549.17,spk_1,neutral,sadness which is you know what do you sat about Let's see ,sadness know sat let see,0,NEGATIVE,0.9968708157539368,0
+774,2549.17,2553.7,spk_1,neutral,What what evokes the sadness So when sadness occurs let's ,evokes sadness sadness occurs let,1,POSITIVE,0.9618838429450989,0
+775,2554.03,2556.22,spk_1,neutral,Yeah that moment on ,yeah moment,0,POSITIVE,0.9995488524436951,0
+776,2557.3,2558.05,spk_1,agenda,Ah ,ah,0,POSITIVE,0.8808811902999878,0
+777,2558.5,2560.81,spk_1,neutral,when did you first feel sad ,first feel sad,0,NEGATIVE,0.9847571849822998,0
+778,2564.3,2569.51,spk_0,neutral,So have them really sad But uh ,really sad uh,0,NEGATIVE,0.9922842383384705,0
+779,2570.5,2575.14,spk_0,neutral,the moment that we're talking about on Thursday when I read ,moment talking thursday read,0,POSITIVE,0.9724584221839905,0
+780,2575.45,2577.3,spk_0,neutral,some update somewhere right Yeah ,update somewhere right yeah,0,POSITIVE,0.9954110980033875,0
+781,2578.9,2579.22,spk_0,agenda,Wow ,wow,0,POSITIVE,0.999592125415802,0
+782,2580.0,2584.61,spk_0,neutral,that is that I felt like truly sorry sir and ,felt like truly sorry sir,0,NEGATIVE,0.9996829032897949,0
+783,2589.8,2590.05,spk_0,neutral,Oh ,oh,0,POSITIVE,0.980659008026123,0
+784,2590.9,2593.22,spk_1,diary,and so status is a uh a ,status uh,1,NEGATIVE,0.9858670830726624,1
+785,2594.7,2594.82,spk_1,neutral,yeah ,yeah,0,POSITIVE,0.9993269443511963,0
+786,2596.3,2597.94,spk_1,agenda,Could be reaction to ,could reaction,0,NEGATIVE,0.6682827472686768,0
+787,2598.4,2601.08,spk_1,neutral,awareness of something that's that's missing ,awareness something missing,0,NEGATIVE,0.9963465332984924,0
+788,2601.33,2604.41,spk_0,neutral,Oh yeah So I've used you Bet you that that ,oh yeah used bet,0,POSITIVE,0.9966540336608887,0
+789,2604.59,2606.22,spk_1,agenda,that that's important to you ,important,1,POSITIVE,0.9997864365577698,0
+790,2606.8,2610.81,spk_0,review,I'm David I I was sad about ,david wa sad,0,NEGATIVE,0.9780069589614868,0
+791,2611.6,2613.63,spk_0,agenda,the last time you know ,last time know,0,POSITIVE,0.8116452097892761,0
+792,2614.9,2615.51,spk_1,neutral,and that ,,1,POSITIVE,0.9933050274848938,0
+793,2615.9,2618.83,spk_1,neutral,it ties like you think you think about the goal you have ,tie like think think goal,0,POSITIVE,0.9994311928749084,0
+794,2618.83,2622.59,spk_1,neutral,being more productive and how like that is how that's just ,productive like,0,POSITIVE,0.9490870833396912,0
+795,2622.59,2624.31,spk_1,neutral,important to you to be ,important,1,POSITIVE,0.9997575879096985,0
+796,2624.7,2627.05,spk_1,neutral,productive professional to contribute ,productive professional contribute,0,POSITIVE,0.9998683929443359,0
+797,2627.7,2632.15,spk_1,neutral,to that All your ideals all your values You know that when ,ideal value know,0,POSITIVE,0.9978628754615784,0
+798,2632.15,2634.72,spk_1,neutral,you're when you're feeling productive ,feeling productive,0,POSITIVE,0.9964479207992554,0
+799,2635.4,2638.54,spk_1,neutral,you making a difference in the world that can really ,making difference world really,0,POSITIVE,0.999834418296814,0
+800,2638.55,2639.61,spk_1,neutral,energize you ,energize,1,POSITIVE,0.9997425675392151,0
+801,2640.29,2644.05,spk_1,neutral,and to see examples of others doing it and take stock of ,see example others take stock,0,POSITIVE,0.9764376282691956,0
+802,2644.05,2644.71,spk_1,neutral,your ,,1,POSITIVE,0.9980940222740173,0
+803,2645.39,2646.1,spk_1,risk,um ,um,1,NEGATIVE,0.9149323105812073,1
+804,2646.69,2649.21,spk_1,diary,take stock of you're you're not really ,take stock really,1,NEGATIVE,0.9992850422859192,1
+805,2649.69,2654.2,spk_1,neutral,operating you know at the level you you cut your custom to ,operating know level cut custom,1,NEGATIVE,0.578079104423523,1
+806,2654.2,2655.41,spk_1,neutral,and that you want to ,want,1,POSITIVE,0.9997400641441345,0
+807,2656.09,2662.69,spk_1,risk,um made you feel sad And that makes perfect sense Like when ,um made feel sad make perfect sense like,0,POSITIVE,0.9949349761009216,0
+808,2662.69,2663.91,spk_1,risk,you if you're not ,,1,POSITIVE,0.9947203397750854,0
+809,2664.39,2667.35,spk_1,diary,experiencing it enough of something you value a lot ,experiencing enough something value lot,0,POSITIVE,0.9995249509811401,0
+810,2667.79,2670.25,spk_1,risk,and you're exposed to that Q ,exposed q,0,POSITIVE,0.9984891414642334,0
+811,2671.09,2673.15,spk_1,diary,How are you not gonna feel sad ,gonna feel sad,0,POSITIVE,0.992634117603302,0
+812,2673.79,2675.94,spk_1,neutral,Yeah the moment when you're exposed to that Q ,yeah moment exposed q,0,POSITIVE,0.9969868063926697,0
+813,2677.09,2679.6,spk_1,diary,So that sounds like ,sound like,0,POSITIVE,0.8807631134986877,0
+814,2680.29,2684.02,spk_1,agenda,um at this moment of your life something that's unavoidable ,um moment life something unavoidable,1,POSITIVE,0.755776047706604,0
+815,2684.16,2688.6,spk_1,agenda,right Until you're really you know getting your mojo back ,right really know getting mojo back,0,POSITIVE,0.9961947202682495,0
+816,2689.19,2690.45,spk_1,review,That's how you're going to feel ,going feel,0,POSITIVE,0.9994400143623352,0
+817,2691.19,2697.51,spk_1,diary,So the the in you asked Well how do I forestall How do I ,asked well forestall,1,NEGATIVE,0.9940021634101868,1
+818,2697.52,2699.58,spk_1,diary,make it So I don't feel well what is that worthlessness ,make feel well worthlessness,0,NEGATIVE,0.9992502331733704,0
+819,2699.58,2703.92,spk_1,diary,about So I think we're back to where the same thing that ,think back thing,0,NEGATIVE,0.9971528053283691,0
+820,2703.92,2706.73,spk_1,diary,worked And then there might be other moments in the chain we ,worked might moment chain,1,NEGATIVE,0.9968275427818298,1
+821,2706.73,2707.5,spk_1,diary,can look at ,look,1,POSITIVE,0.9996435642242432,0
+822,2708.19,2711.71,spk_1,risk,but the same thing that worked Um ,thing worked um,0,NEGATIVE,0.994528591632843,0
+823,2712.29,2716.67,spk_1,neutral,for on Sunday you know to get you out of a cycle that was ,sunday know get cycle wa,0,POSITIVE,0.9935152530670166,0
+824,2716.67,2718.6,spk_1,neutral,leading Teo You harming yourself ,leading teo harming,1,NEGATIVE,0.9960229396820068,1
+825,2719.29,2724.21,spk_1,neutral,Um is that might have prevented you from going down This ,um might prevented going,0,NEGATIVE,0.999445378780365,0
+826,2724.21,2728.3,spk_1,neutral,this chain of thoughts reclamation ,chain thought reclamation,1,POSITIVE,0.9539970755577087,0
+827,2728.69,2731.82,spk_1,risk,worst feeling guilty shame and then were thoughts of ,worst feeling guilty shame thought,0,NEGATIVE,0.9988014698028564,0
+828,2731.82,2735.63,spk_1,risk,worthlessness If you could have stayed with that sadness we ,worthlessness could stayed sadness,0,NEGATIVE,0.9997439980506897,0
+829,2735.63,2738.0,spk_1,risk,validated it But um ,validated um,0,NEGATIVE,0.9629785418510437,0
+830,2738.69,2742.71,spk_1,diary,uh now we talked about mindfulness to current emotion ,uh talked mindfulness current emotion,1,POSITIVE,0.944718599319458,0
+831,2743.19,2747.15,spk_1,neutral,but the other one we talked about is opposite to motion ,one talked opposite motion,0,NEGATIVE,0.9925217032432556,0
+832,2747.15,2751.96,spk_1,neutral,action So you know you you This sadness for you in the past ,action know sadness past,0,POSITIVE,0.9933183193206787,0
+833,2751.96,2752.93,spk_1,neutral,has also lead to ,ha also lead,0,POSITIVE,0.9610852003097534,0
+834,2753.69,2758.16,spk_1,neutral,just know less less motivation less activation ,know le le motivation le activation,1,NEGATIVE,0.9986602067947388,1
+835,2758.89,2762.76,spk_1,neutral,Um so I think sitting sitting on that sadness long enough to ,um think sitting sitting sadness long enough,0,NEGATIVE,0.9889601469039917,0
+836,2762.76,2765.35,spk_1,neutral,say Okay I'm sad I'm not going to run away from this I'm ,say okay sad going run away,0,POSITIVE,0.9976546168327332,0
+837,2765.35,2766.29,spk_1,neutral,going to sit with it ,going sit,1,POSITIVE,0.9984369874000549,0
+838,2767.08,2770.01,spk_1,neutral,um learn how to sit with until it passes ,um learn sit pass,0,NEGATIVE,0.9916764497756958,0
+839,2771.18,2775.95,spk_1,review,But then also to um then say okay And I I I know what ,also um say okay know,1,POSITIVE,0.9994003772735596,0
+840,2775.95,2777.99,spk_1,review,happens I just feel like sitting around ,happens feel like sitting around,0,NEGATIVE,0.9948863387107849,0
+841,2778.58,2781.38,spk_1,neutral,but I'm going to go I'm gonna go do something May I'm not ,going go gonna go something may,1,NEGATIVE,0.9729370474815369,1
+842,2781.38,2782.29,spk_1,neutral,gonna like ,gonna like,1,POSITIVE,0.999325156211853,0
+843,2783.38,2784.94,spk_1,agenda,right 100 lines of code ,right 100 line code,1,POSITIVE,0.9973934888839722,0
+844,2785.48,2787.9,spk_1,neutral,but maybe I will go for a walk around the block ,maybe go walk around block,0,NEGATIVE,0.7998014688491821,0
+845,2788.28,2790.94,spk_1,neutral,You know I won't do The thing I feel like doing was just ,know thing feel like wa,0,NEGATIVE,0.9940306544303894,0
+846,2790.94,2794.79,spk_1,neutral,sitting here kind of beating myself up and not you know ,sitting kind beating know,1,NEGATIVE,0.9985126852989197,1
+847,2794.8,2796.89,spk_1,neutral,which isn't getting any work done It's going to lead to me ,getting work done going lead,0,NEGATIVE,0.9985425472259521,0
+848,2796.89,2799.5,spk_1,neutral,feeling worthless and maybe banging my head against the wall ,feeling worthless maybe banging head wall,0,NEGATIVE,0.9998012185096741,0
+849,2799.75,2800.87,spk_1,neutral,I'm gonna go for a walk ,gonna go walk,1,POSITIVE,0.9948129653930664,0
+850,2801.28,2807.09,spk_1,neutral,um and be mindful of the experience You know the ,um mindful experience know,0,POSITIVE,0.9970898628234863,0
+851,2807.78,2813.22,spk_1,review,the trees the smells the birds the your neighborhood sounds ,tree smell bird neighborhood sound,0,POSITIVE,0.9991938471794128,0
+852,2813.22,2815.81,spk_1,review,beautiful So you know there's a lot ,beautiful know lot,0,POSITIVE,0.9998785257339478,0
+853,2816.38,2817.2,spk_1,neutral,offer ,offer,0,POSITIVE,0.9943693280220032,0
+854,2818.88,2820.62,spk_1,risk,So but so ,,1,NEGATIVE,0.8827478289604187,1
+855,2822.08,2824.43,spk_1,neutral,I don't want to overload us I think like we want to come ,want overload u think like want come,1,POSITIVE,0.9937667846679688,0
+856,2824.43,2827.86,spk_1,neutral,back would say Hey there was But that's always like that ,back would say hey wa always like,0,POSITIVE,0.9982957243919373,0
+857,2827.87,2830.59,spk_1,neutral,That being mindful the current emotion ,mindful current emotion,1,POSITIVE,0.9890329837799072,0
+858,2831.78,2832.4,spk_1,neutral,um ,um,1,NEGATIVE,0.9149323105812073,1
+859,2832.88,2835.7,spk_1,neutral,activating instead of giving into the urge ,activating instead giving urge,1,POSITIVE,0.99946528673172,0
+860,2836.38,2839.55,spk_1,neutral,something we just want to keep working on But the homework ,something want keep working homework,0,NEGATIVE,0.9143146872520447,0
+861,2839.56,2843.47,spk_1,neutral,so we don't overload the homework is the five minutes every ,overload homework five minute every,0,NEGATIVE,0.9894994497299194,0
+862,2843.47,2844.62,spk_1,neutral,morning of mindfulness ,morning mindfulness,1,POSITIVE,0.9904161691665649,0
+863,2845.28,2847.49,spk_1,neutral,and texting Um ,texting um,1,NEGATIVE,0.9876385927200317,1
+864,2848.08,2849.7,spk_1,neutral,and then we'll keep working on ,keep working,0,POSITIVE,0.9987396597862244,0
+865,2850.38,2853.61,spk_1,agenda,on opposite to motion action and mindfulness to current ,opposite motion action mindfulness current,1,POSITIVE,0.6146270632743835,0
+866,2853.61,2857.09,spk_1,agenda,motion And you got skills and get class I think it's ,motion got skill get class think,0,POSITIVE,0.99904865026474,0
+867,2857.58,2861.14,spk_1,agenda,um I think that's what we're working on right now in skills ,um think working right skill,0,POSITIVE,0.9969434142112732,0
+868,2861.14,2863.4,spk_1,agenda,class So that that's good timing ,class good timing,0,POSITIVE,0.9998571872711182,0
+869,2864.18,2866.13,spk_0,neutral,Yeah No thank you Thank you for this ,yeah thank thank,1,POSITIVE,0.9996069073677063,0
+870,2866.58,2870.68,spk_1,diary,Yeah well We'll be in touch this week War And we'll see you ,yeah well touch week war see,0,POSITIVE,0.9998514652252197,0
+871,2870.68,2871.4,spk_1,diary,next week ,next week,0,POSITIVE,0.970971941947937,0
+872,2871.98,2873.58,spk_0,neutral,Absolutely Thank your liver ,absolutely thank liver,1,POSITIVE,0.9997661709785461,0
+873,2873.85,2874.48,spk_1,risk,Thanks a lot ,thanks lot,0,POSITIVE,0.999806821346283,0
+874,2875.38,2878.87,spk_1,neutral,Okay So what do we we hit off Turn the recording ,okay hit turn recording,0,NEGATIVE,0.9932021498680115,0

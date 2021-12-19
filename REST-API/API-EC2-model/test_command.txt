@@ -1,0 +1,1 @@
+curl.exe -X POST localhost:80/predict_risk -H "Content-Type: application/json" -d @API-EC2-MODEL\api-test.json
